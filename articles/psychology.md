@@ -102,7 +102,7 @@ IQ test-retest score gains are correlated with g loadings at -1, meaning that sc
 
 ### Wilson Effect
 
-The heritability of IQ increases with age, reaching a maximum of about 0.6-0.8 (Bouchard, 2013; Briley & Drob, 2013).
+The heritability of IQ increases with age, reaching a maximum of about 0.6-0.8 (Bouchard, 2013; Briley & Drob, 2013; [Blomin * Deary, 2014)](https://www.researchgate.net/figure/A-meta-analysis-of-11000-pairs-of-twins-shows-that-the-heritability-of-intelligence_fig1_265690996).
 
 ### G Factor
 
