@@ -980,4 +980,16 @@ Experimental evidence suggests that there is racial discrimination against middl
 
 Meta-analytic experimental research suggests that white people on net do not have any strong racial bias in favor of or against black people, while black people have a small to moderate bias in favor of black people [(Zigerell, 2018)](https://journals.sagepub.com/doi/full/10.1177/2053168017753862).
 
+## Racial Privilege and Guilt
+
+Diversity courses increase beliefs in white privilege and racism and more support for affirmative action. White students express greater white guilt after completing such courses [(Case, 2007)](https://journals.sagepub.com/doi/abs/10.1080/00986280701700250).
+
+White guilt is associated with belief in white privilege and belief that Europeans are perpetrators of racial discrimination [(Iyer et al., 2003)](https://pubmed.ncbi.nlm.nih.gov/15272965/).
+
+Perceived racial privilege is associated with lower self-rated health and more physically and mentally unhealthy days [(Fujishiro, 2009)](https://www.researchgate.net/publication/23770469_Is_Perceived_Racial_Privilege_Associated_with_Health_Findings_from_the_Behavioral_Risk_Factor_Surveillance_System).
+
+On average, white guilt amongst white people is low, but there is large range and variability. White guilt is associated with more negative personal evaluations of whites and theoretical antecedents of stronger beliefs in the existence of white privilege. White guilt mediates the relationship from white privilege and beliefs about the prevalence of discrimination to attitudes toward affirmative action, and both white guilt and prejudice independently predict attitudes toward affirmative action [(Swim & Miller, 1999)](https://journals.sagepub.com/doi/abs/10.1177/0146167299025004008).
+
+Social liberals show more sympathy for a poor black person than a poor white person after reading about white privilege, while for social conservatives there is no difference. However, relative to conservatives, liberals are just as sympathetic to the poor white person [(Cooley et el., 2019)](https://www.researchgate.net/publication/332749635_Complex_Intersections_of_Race_and_Class_Among_Social_Liberals_Learning_About_White_Privilege_Reduces_Sympathy_Increases_Blame_and_Decreases_External_Attributions_for_White_People_Struggling_With_Pover).
+
 </div>
