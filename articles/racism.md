@@ -996,4 +996,8 @@ Social liberals show more sympathy for a poor black person than a poor white per
 
 Rates of depression are much lower in blacks and hispanics compared to whites, although it is more likely to be more persistent among blacks and hispanics. People who are mixed race are the most likely to report any mental illness in the past year, followed by AMerican Indian/Alaska Natives, white, and black. Whites are more likely to die by suicide than people of other ethnic/racial groups [(APA, 2017)](https://www.psychiatry.org/File%20Library/Psychiatrists/Cultural-Competency/Mental-Health-Disparities/Mental-Health-Facts-for-Diverse-Populations.pdf).
 
+## Juries and Jury Selection
+
+[Mazzella & Feingold (1994)](https://onlinelibrary.wiley.com/doi/10.1111/j.1559-1816.1994.tb01552.x) meta-analyzed experimental research on mock juror judgments and found that there was no overall effect of race on mock jurors' judgments. There were no differences in punishment for robbery, assault, or rape, but jurors recommended greater punishment for blacks than for whites with negligent homicide, and for whites than for blacks on fraud. A more recent meta-analysis, [Mitchell et al. (2005)](https://scholarworks.utep.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1016&context=christian_meissner), found a small effect of racial bias in decision-making, but a 2014 meta-analysis, [Decine & Caughlin (2014)](https://www.semanticscholar.org/paper/Do-they-matter-A-meta-analytic-investigation-of-and-Devine-Caughlin/16101e386734fd24f0dbaaf3ae3691a002960487?p2df), found no net racial bias effect. There appears to be no consistent evidence that race has a significant effect on jury decisions.
+
 </div>
