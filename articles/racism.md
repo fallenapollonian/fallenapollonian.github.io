@@ -1008,4 +1008,8 @@ Research suggests that BLM protests have decreased police homicides and property
 
 BLM protests did not cause a rise in COVID within the areas where they were because they resulted in activities being averted which were more risky [(Dave et al., 2021)](https://www.nber.org/system/files/working_papers/w27408/w27408.pdf).
 
+## Self-Reported Discrimination
+
+In Canada, 40.9% of blacks reported experiencing discrimination or unfair treatment in the past 5 years due to their race or skin color, compared to 13.8% of First Nations, Metis, or Inuit, 19% of other groups designated as visible minorities, and 2.8% of non-Indigenous, non-visible minorities [(Statistics Canada, 2022)](https://www150.statcan.gc.ca/n1/pub/85-002-x/2022001/article/00002/tbl/tbl01-eng.htm).
+
 </div>
