@@ -976,6 +976,8 @@ Experimental evidence suggests that there is racial discrimination against middl
 - [Model Minority](#model-minority)
 - [Affirmative Action](#affirmative-action)
 
+## Experimental Discrimination
 
+Meta-analytic experimental research suggests that white people on net do not have any strong racial bias in favor of or against black people, while black people have a small to moderate bias in favor of black people [(Zigerell, 2018)](https://journals.sagepub.com/doi/full/10.1177/2053168017753862).
 
 </div>
