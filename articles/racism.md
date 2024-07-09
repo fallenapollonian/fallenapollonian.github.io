@@ -1000,4 +1000,12 @@ Rates of depression are much lower in blacks and hispanics compared to whites, a
 
 [Mazzella & Feingold (1994)](https://onlinelibrary.wiley.com/doi/10.1111/j.1559-1816.1994.tb01552.x) meta-analyzed experimental research on mock juror judgments and found that there was no overall effect of race on mock jurors' judgments. There were no differences in punishment for robbery, assault, or rape, but jurors recommended greater punishment for blacks than for whites with negligent homicide, and for whites than for blacks on fraud. A more recent meta-analysis, [Mitchell et al. (2005)](https://scholarworks.utep.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1016&context=christian_meissner), found a small effect of racial bias in decision-making, but a 2014 meta-analysis, [Decine & Caughlin (2014)](https://www.semanticscholar.org/paper/Do-they-matter-A-meta-analytic-investigation-of-and-Devine-Caughlin/16101e386734fd24f0dbaaf3ae3691a002960487?p2df), found no net racial bias effect. There appears to be no consistent evidence that race has a significant effect on jury decisions.
 
+## BLM
+
+The BLM movement has been overwhelmingly non-violent, with 94% of all BLM demonstrations being peaceful [(ACLED, 2021)](https://acleddata.com/acleddatanew/wp-content/uploads/2021/05/ACLED_Report_A-Year-of-Racial-Justice-Protests_May2021.pdf).
+
+Research suggests that BLM protests have decreased police homicides and property crimes within the areas they are located, but have increased murders in general. However, demographic imbalance in protest variation and treatment timing warrant a cautious interpretation [(Campbell, 2021)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767097).
+
+BLM protests did not cause a rise in COVID within the areas where they were because they resulted in activities being averted which were more risky [(Dave et al., 2021)](https://www.nber.org/system/files/working_papers/w27408/w27408.pdf).
+
 </div>
