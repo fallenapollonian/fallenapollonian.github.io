@@ -960,6 +960,17 @@ Conclusion
 
 -   Finds that mentions of affirmative action lead people to view groups who have affirmative action applied to them as more negatively.
 
+## Health/Healthcare
+
+There exists low to moderate levels of implicit racial bias among healthcare professionals, which is significantly related to patient-provider interactions and health outcomes [(Hall et al., 2015;](https://pubmed.ncbi.nlm.nih.gov/26469668/)  [FitzGerald & Hurst, 2017)](https://pubmed.ncbi.nlm.nih.gov/28249596/).
+
+If racial disparities in preventable deaths were eliminated, the annualized number of lives saved ranges from 475-812 in Minnesota. This translates into $1.2-2.9 billion per year in economic savings [(Nanney et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/30823675/).
+
+Eliminating health disparities for minorities in the US would have reduced direct medical care expenditures by about $230 billion and indirect costs associated with illness and premature death by more than $1 trillion for the years 2003-2006 [(LaVeist et al., 2011)](https://pubmed.ncbi.nlm.nih.gov/21563622/).
+
+Racism is associated with poorer mental health, physical health, and general health [(Paradies et al., 2015;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4580597/)  [Carter et al., 2018)](https://www.researchgate.net/profile/Veronica-Johnson-8/publication/329022446_A_Meta-Analytic_Review_of_Racial_Discrimination_Relationships_to_Health_and_Culture/links/5c475fa2458515a4c73894d7/A-Meta-Analytic-Review-of-Racial-Discrimination-Relationships-to-Health-and-Culture.pdf).\
+Experimental evidence suggests that there is racial discrimination against middle-class blacks compared to middle-class whites in accessing mental health care, although there is no discrimination between working-class blacks and whites [(Kugelmass, 2016)](https://journals.sagepub.com/doi/abs/10.1177/0022146516647098).
+
 </details>
 
 - [Model Minority](#model-minority)
