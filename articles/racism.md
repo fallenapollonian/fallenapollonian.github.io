@@ -992,4 +992,8 @@ On average, white guilt amongst white people is low, but there is large range an
 
 Social liberals show more sympathy for a poor black person than a poor white person after reading about white privilege, while for social conservatives there is no difference. However, relative to conservatives, liberals are just as sympathetic to the poor white person [(Cooley et el., 2019)](https://www.researchgate.net/publication/332749635_Complex_Intersections_of_Race_and_Class_Among_Social_Liberals_Learning_About_White_Privilege_Reduces_Sympathy_Increases_Blame_and_Decreases_External_Attributions_for_White_People_Struggling_With_Pover).
 
+## Mental Health
+
+Rates of depression are much lower in blacks and hispanics compared to whites, although it is more likely to be more persistent among blacks and hispanics. People who are mixed race are the most likely to report any mental illness in the past year, followed by AMerican Indian/Alaska Natives, white, and black. Whites are more likely to die by suicide than people of other ethnic/racial groups [(APA, 2017)](https://www.psychiatry.org/File%20Library/Psychiatrists/Cultural-Competency/Mental-Health-Disparities/Mental-Health-Facts-for-Diverse-Populations.pdf).
+
 </div>
