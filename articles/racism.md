@@ -1012,4 +1012,32 @@ BLM protests did not cause a rise in COVID within the areas where they were beca
 
 In Canada, 40.9% of blacks reported experiencing discrimination or unfair treatment in the past 5 years due to their race or skin color, compared to 13.8% of First Nations, Metis, or Inuit, 19% of other groups designated as visible minorities, and 2.8% of non-Indigenous, non-visible minorities [(Statistics Canada, 2022)](https://www150.statcan.gc.ca/n1/pub/85-002-x/2022001/article/00002/tbl/tbl01-eng.htm).
 
+## Interracial Relationships
+
+Interracial couples are 50% more likely to divorce, although it is not a major predictor compared to many other predictors [(Kreider, 2000;](https://www.census.gov/content/dam/Census/library/publications/2000/demo/interracial-instability.pdf)  [Bratter & King, 2008)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1741-3729.2008.00491.x).
+
+Adolescents involved in interracial relationships are more likely to terminate their relationships, although there is no difference in stability. Adolescents involved are also less likely to reveal their relationships to their families, to the public eye, and less likely to meet their partners' parents [(Wang et al., 2006)](https://www.sciencedirect.com/science/article/abs/pii/S0049089X04000882).
+
+Interracial marriage is associated with increases in severe distress for men or women of many racial groups [(Bratter & Eschbach, 2006)](https://www.sciencedirect.com/science/article/abs/pii/S0049089X05000438).
+
+Among non-blacks there is more stigma and disapproval attached to relationships with blacks than to relationships with members of other groups [(Kroeger & Williams, 2011)](https://pubmed.ncbi.nlm.nih.gov/22081799/).
+
+Interracial couples elicit disgust and are dehumanized relative to same-race couples [(Skinner & Hudac, 2017)](https://www.sciencedirect.com/science/article/abs/pii/S0022103116300555).
+
+People in same-race dyads tend to express more positive attitudes about their partners, feeling less negatively, have more friendly nonverbal behavior, and score higher on performance measures, than those in interracial dyads [(Toosi et al., 2012)](https://sci-hub.ru/https://doi.org/10.1037/a0025767).
+
+Some congenital malformations are more common amongst births to parents of mixed race-ethnicity, while others are less common [(Yang et al., 2004)](https://archive.ph/5kPn1).
+
+Oxytocin creates intergroup bias because it motivates in-group favoritism and to a lesser extent out-group derogation [(De Dreu et al., 2010)](https://archive.ph/2bm3).
+
+Interracial marriage is significantly associated with higher mortality risk than same-race marriages, even after controlling for sociodemographic covariates [(Yu & Zhang, 2012)](https://paa2012.populationassociation.org/papers/122630#:~:text=Pooled%20Data%20from%201986%20to,controlling%20for%20socio%2Ddemographic%20covariates.).
+
+Mixed race adolescents had higher risk when compared with single race adolescents on general health questions, school experience, smoking and drinking, among other risk variables [(Udry et al., 2003)](https://archive.ph/dZqP1).
+
+US students of mixed race are more likely than others to suffer from depression, substance abuse, sleep problems, and various aches and pains [(Williamson, 2003)](https://archive.ph/Js25I).
+
+Those of mixed black-white ancestry fall between blacks and whites in regard to self-rated overall health and have the worst self-rated mental health [(Veenstra, 2017)](https://archive.ph/0Ezku).
+
+People are genetically inclined to choose as social partners those who resemble themselves at a genetic level [(Rushton & Bons, 2005)](https://sci-hub.ru/https://doi.org/10.1111/j.0956-7976.2005.01574.x).
+
 </div>
