@@ -1065,4 +1065,10 @@ Interracial interactions impair executive functioning, likely due to resource de
 
 Blacks tend to have higher mean blood levels compared to whites and hispanics [(White et al., 2015)](https://sci-hub.se/https://doi.org/10.1007/s40615-015-0124-9).
 
+## Police Subconscious Bias
+
+Officers speak with consistently less respect toward black vs white community members, even after controlling for the race of the officer, the severity of the infraction, the location of the stop, and the outcome of the stop [(Voigt et al., 2017)](https://www.pnas.org/content/pnas/early/2017/05/30/1702413114.full.pdf).
+
+Each additional police officer abates approximately 0.1 homicides, effects which in per-capita terms are twice as large for black versus white victims. At the same time, larger police forces make more arrests for low-level "quality of life" offenses, which would have disproportionately burdensome effects for blacks. Thus, there is evidence that black communities are simultaneously over and under-policed [(Chalfin et al., 2020)](https://www.nber.org/papers/w28202).
+
 </div>
