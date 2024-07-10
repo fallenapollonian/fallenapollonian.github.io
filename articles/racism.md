@@ -1040,4 +1040,25 @@ Those of mixed black-white ancestry fall between blacks and whites in regard to 
 
 People are genetically inclined to choose as social partners those who resemble themselves at a genetic level [(Rushton & Bons, 2005)](https://sci-hub.ru/https://doi.org/10.1111/j.0956-7976.2005.01574.x).
 
+## Bias and Identity
+
+High in-group bias is positively related to high self-esteem [(Aberson et al., 2000)](https://journals.sagepub.com/doi/10.1207/S15327957PSPR0402_04).
+
+Ethnic identity is associated positively with psychological well-being across racial groups [(Roberts et al., 1999;](https://journals.sagepub.com/doi/abs/10.1177/0272431699019003001)  [Carlson et al., 2000)](https://journals.sagepub.com/doi/10.1177/0272431600020001003).
+
+Group identification with one's group is linked with a higher level of satisfaction with life [(Wakefield et al., 2017)](https://sci-hub.se/https://doi.org/10.1007/s10902-016-9735-z).
+
+Perceived discrimination has a significant negative effect on both mental and physical health, also increasing stress [(Pascoe & Richman, 2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2747726/).
+
+Perceived discrimination has a significant negative effect on psychological well-being [(Schmitt et al., 2014)](https://pubmed.ncbi.nlm.nih.gov/24547896/).
+
+Exposure to other races decreases racial prejudice and increases liking for strangers of that race [(Pettigrew & Tropp, 2006;](https://pubmed.ncbi.nlm.nih.gov/16737372/)  [Zebrowitz et al., 2008)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2705986/).
+
+Need for closure is related to religious fundamentalism and prejudice [(Brandt & Reyna, 2010)](https://journals.sagepub.com/doi/10.1177/0146167210366306).
+
+Younger children will discriminate against black people in general, while older children will only do so under low salience of anti-racist norms [(Monteiro et al., 2009)](https://www.researchgate.net/publication/51747342_The_development_of_intergroup_bias_in_childhood_How_social_norms_can_shape_children's_racial_behaviours).
+
+Prejudice in the form of perceived physical and health danger is hard-wired into the human brain, through it being an adaptive response to perceived threat from outside groups [(ASU, 2005)](https://www.sciencedaily.com/releases/2005/05/050525105357.htm).\
+Interracial interactions impair executive functioning, likely due to resource depletion [(Richeson & Trawalter, 2005)](https://groups.psych.northwestern.edu/spcl/documents/depletion_JPSP05.pdf).
+
 </div>
