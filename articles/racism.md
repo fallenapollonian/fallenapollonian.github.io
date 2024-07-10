@@ -1061,4 +1061,8 @@ Younger children will discriminate against black people in general, while older 
 Prejudice in the form of perceived physical and health danger is hard-wired into the human brain, through it being an adaptive response to perceived threat from outside groups [(ASU, 2005)](https://www.sciencedaily.com/releases/2005/05/050525105357.htm).\
 Interracial interactions impair executive functioning, likely due to resource depletion [(Richeson & Trawalter, 2005)](https://groups.psych.northwestern.edu/spcl/documents/depletion_JPSP05.pdf).
 
+## Lead Poisoning
+
+Blacks tend to have higher mean blood levels compared to whites and hispanics [(White et al., 2015)](https://sci-hub.se/https://doi.org/10.1007/s40615-015-0124-9).
+
 </div>
