@@ -332,4 +332,8 @@ Taller individuals are more likely to support the Conservative Party, support co
 Self-perceived attractiveness is associated with support for group-based dominance and belief in legitimizing ideologies. This effect is mediated by subjective social class. Lower self-perceived attractiveness decreases subjective SES, which leads to a greater tendency to reject social hierarchies and to construe inequality in terms of contextual causes [(Belmi & Neale, 2014)](https://www.sciencedirect.com/science/article/abs/pii/S0749597814000223?via%3Dihub).\
 Individuals vulnerable to depression are less likely to identify with mainstream conservative parties, to vote for them, or to place themselves on the political right [(Bernardi, 2020)](https://journals.sagepub.com/doi/abs/10.1177/1354068820930391).
 
+## Eugenics/Genetic Enhancement
+
+[Anomaly (2018)](https://link.springer.com/article/10.1007/s40592-018-0081-2) defended the concept of eugenics or genetic enhancement and advocated for numerous "eugenic" policy proposals. Policy proposals include free contraception, genetic education and counseling, and incentives and penalties. Jonathan Anomaly believes that states should apply as little coercion as possible to facilitate the emergence of future people with desirable traits.
+
 </div>
