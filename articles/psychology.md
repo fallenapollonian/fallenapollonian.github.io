@@ -340,4 +340,8 @@ Individuals vulnerable to depression are less likely to identify with mainstream
 
 The 2-repeat allele of the MAOA gene is carried by 0.1% of caucasian males and 5.2% of African-American males. African-American males who carried the 2-repeat allele are significantly more likely to be arrested and incarcerated, are more anti-social, and have higher involvement in violent behaviors over the life course [(Beaver et al., 2012)](https://lesacreduprintemps19.files.wordpress.com/2012/12/exploring-the-association-between-the-2-repeat-allele-of-the-maoa-gene.pdf). A similar analysis could not be done for caucasians due to its rarity amongst caucasians.
 
+## Altruism and Ethics
+
+Humans routinely help others to achieve their goals, even when the helper receives no immediate benefit and the person helped is a stranger. Such altruistic behaviors exist in human children as young as 18 months in age and also exist in chimpanzees although with less robust skills and motivations [(Warneken & Tomasello, 2006)](https://pubmed.ncbi.nlm.nih.gov/16513986/).
+
 </div>
