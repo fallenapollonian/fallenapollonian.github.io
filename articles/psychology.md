@@ -319,4 +319,17 @@ Tattoos may signify something traumatic or extreme in someone's life or may sign
 
 Trigger warnings have no net effect on affective responses to material being warned about nor on educational outcomes [(Kimble et al., 2021;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7993791/) [Bridgland et al., 2022)](https://osf.io/qav9m/). It doesn't decrease engagement with negative material but can in fact increase engagement with material [(Bridgland et al., 2022)](https://osf.io/qav9m/). Additionally, trigger warnings reinforce trauma survivor’s views of their trauma being central to their identity and increase anticipatory stress [(Jones & Bellet, 2020)](https://journals.sagepub.com/doi/10.1177/2167702620921341). This suggests that trigger warnings at best do essentially nothing and at worst have small negative effects.
 
+## Physiognomy
+
+Facial width-to-height ratio is a predictor of one's propensity for aggressive behavior [(Carre & McCormick, 2008)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2570531/).
+
+Female politicians with stereotypically feminine facial features are more likely to be republican [(UCLA, 2012)](https://www.sciencedaily.com/releases/2012/09/120927130955.htm).
+
+The facts of politicians judged to be supporters of the Conservative Party are rated as more intelligent, attractive, honest, and of higher social class than the facts of politicians judged to be from the Labor Party. This effect exists regardless of the political allegiances of the observers [(Bull et al., 1983)](https://www.jstor.org/stable/3791063?seq=1#page_scan_tab_contents).
+
+Taller individuals are more likely to support the Conservative Party, support conservative policies and vote Conservative [(Arunachalam & Watson, 2016)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/height-income-and-voting/2B6875BFB8B956963D1DBBD510A581CF).
+
+Self-perceived attractiveness is associated with support for group-based dominance and belief in legitimizing ideologies. This effect is mediated by subjective social class. Lower self-perceived attractiveness decreases subjective SES, which leads to a greater tendency to reject social hierarchies and to construe inequality in terms of contextual causes [(Belmi & Neale, 2014)](https://www.sciencedirect.com/science/article/abs/pii/S0749597814000223?via%3Dihub).\
+Individuals vulnerable to depression are less likely to identify with mainstream conservative parties, to vote for them, or to place themselves on the political right [(Bernardi, 2020)](https://journals.sagepub.com/doi/abs/10.1177/1354068820930391).
+
 </div>
