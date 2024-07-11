@@ -336,4 +336,8 @@ Individuals vulnerable to depression are less likely to identify with mainstream
 
 [Anomaly (2018)](https://link.springer.com/article/10.1007/s40592-018-0081-2) defended the concept of eugenics or genetic enhancement and advocated for numerous "eugenic" policy proposals. Policy proposals include free contraception, genetic education and counseling, and incentives and penalties. Jonathan Anomaly believes that states should apply as little coercion as possible to facilitate the emergence of future people with desirable traits.
 
+## MAOA Gene
+
+The 2-repeat allele of the MAOA gene is carried by 0.1% of caucasian males and 5.2% of African-American males. African-American males who carried the 2-repeat allele are significantly more likely to be arrested and incarcerated, are more anti-social, and have higher involvement in violent behaviors over the life course [(Beaver et al., 2012)](https://lesacreduprintemps19.files.wordpress.com/2012/12/exploring-the-association-between-the-2-repeat-allele-of-the-maoa-gene.pdf). A similar analysis could not be done for caucasians due to its rarity amongst caucasians.
+
 </div>
