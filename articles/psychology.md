@@ -344,4 +344,24 @@ The 2-repeat allele of the MAOA gene is carried by 0.1% of caucasian males and 5
 
 Humans routinely help others to achieve their goals, even when the helper receives no immediate benefit and the person helped is a stranger. Such altruistic behaviors exist in human children as young as 18 months in age and also exist in chimpanzees although with less robust skills and motivations [(Warneken & Tomasello, 2006)](https://pubmed.ncbi.nlm.nih.gov/16513986/).
 
+## Biorealism
+
+Across a large number of traits analyzed, there was a mean 49% heritability of the traits among populations [(Polderman et al., 2015)](https://www.nature.com/articles/ng.3285).
+
+Contrary to expert opinion based on polling, delay of gratification times have been increasing over the past 50 years, with a fifth of a standard increase in ability per decade [(Protzko, 2020)](https://sci-hub.ru/https://doi.org/10.1016/j.intell.2020.101451).
+
+Individuals carrying the S allele of the serotonin transporter functional polymorphism 5-HTTLPR produce significantly less 5-HTT mRNA and protein, which results in higher concentrations of serotonin in the synaptic cleft relative to individuals carrying the L allele. Evidence suggests that individuals carrying the S allele tend to have higher negative emotion. There is evidence that collectivistic cultures are significantly more likely to comprise individuals carrying the S allele of the 5-HTTLPR [(Chiao & Blizinsky, 2010)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2842692/).
+
+Whites tend to have lower job status and income when the level of general intelligence is taken into account [(Nyborg & Jensen, 2001)](https://www.researchgate.net/publication/229357056_Occupation_and_income_related_to_psychometric_g).
+
+Self control has a 60% heritability [(Willems et al., 2019)](https://www.sciencedirect.com/science/article/pii/S0149763418307905).
+
+Parental incarceration generally has positive effects on the child through the removal of a negative role model [(Billings, 2017;](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3034539)  [Norris et al., 2021)](https://www.aeaweb.org/articles?id=10.1257/aer.20190415&from=f).
+
+There exists genetic influences which explain the overlap between low IQ and antisocial behavior in young children [(Koenen, 2008)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2254220/).
+
+[Frisell et al. (2012)](https://link.springer.com/article/10.1007/s10519-011-9483-0) found varying estimates for the heritability of violent crime, with models producing a range from 20-55%.
+
+Black children tend to have less delay of gratification than white children [(Williams & Ramirez, 2010;](https://www.tandfonline.com/doi/abs/10.1080/00224545.1974.9923126)  [Castillo et al., 2011)](https://ideas.repec.org/a/eee/pubeco/v95y2011i11p1377-1385.html). A one standard deviation increase ein the discount rate is associated with an increase in the number of disciplinary referrals a child has the following school year by 14%.
+
 </div>
