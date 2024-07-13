@@ -25,3 +25,7 @@ Homes in the US with and without firearms have no differences in mental health, 
 There is an association between gun ownership and overall risk of suicide, with the risk highest immediately after the purchase of a handgun. This suggests that some firearms are specifically used for the purpose of committing suicide [(Wellford et al., 2005)](https://nap.nationalacademies.org/read/10881/chapter/9).
 
 Changes in a household's gun ownership over time are associated with significant changes in suicide [(Miller et al., 2006)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2563517/pdf/178.pdf).
+
+## Economic Cost
+
+Firearm injuries in the US have an economic cost between hundreds of millions per year to tens of billions per year [(CSN, 2012;](https://www.childrenssafetynetwork.org/sites/default/files/TheCostofGunViolence.pdf)  [Lee et al., 2014;](https://www.sciencedirect.com/science/article/abs/pii/S0039606014000609)  [Spitzer et al., 2017)](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2017.303684).
