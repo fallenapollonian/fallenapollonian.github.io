@@ -88,4 +88,8 @@ Between 1900 and 2015 the sea level has risen an average 8 inches. Currently, it
 
 Even under the 1.5 degrees scenario, sea level rise is still expected to go over several meters over the next thousand years. The 2 degrees threshold would result in a 9-meter sea level rise. Economic costs in the world's largest coastal cities due to flooding in 2005 were $6 billion, in the year of Hurricane Katrina. This is expected to jump up to $1 trillion by 2050 [(OSU, 2018)](https://www.sciencedaily.com/releases/2018/07/180716130724.htm).
 
+## Disease
+
+Climate change will lead to an increase in the spread of a variety of diseases [(Towers et al., 2013;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3770759/)  [Ryan et el., 2019)](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0007213).
+
 </div>
