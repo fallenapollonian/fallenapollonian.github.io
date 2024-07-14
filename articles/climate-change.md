@@ -76,4 +76,8 @@ To combat climate change, 57% of Americans were willing to pay a dollar a month,
 
 The vast majority of CO2 emissions come from the richest people on the planet, who are the ones who will suffer from the effects the least. 50% of emissions are attributable to the richest 10%, who emit 60 times more CO2 than the poorest 10% [(OXFAM, 2015)](https://oi-files-d8-prod.s3.eu-west-2.amazonaws.com/s3fs-public/file_attachments/mb-extreme-carbon-inequality-021215-en.pdf). The richest 10% of the world's population are responsible for 52% of the world's CO2 emissions, while the poorest 50% are responsible for 7% [(OXFAM, 2020)](https://oxfamilibrary.openrepository.com/bitstream/handle/10546/621052/mb-confronting-carbon-inequality-210920-en.pdf). Despite being the people who contribute the least to climate change, the poor will be most negatively affected by climate change [(Cook, 2024)](https://skepticalscience.com/co2-limits-poor-poverty.htm).
 
+## Temperature
+
+Earth's temperature has risen by an average of 0.08° Celsius per decade since 1880 or about 2° F in total. Since 1981, the rate of warming has doubled to 0.18° C per decade. The 10 warmest years in the historical record have all occurred since 2010 [(Lindsey & Dahlman, 2024)](https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature).
+
 </div>
