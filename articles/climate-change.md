@@ -92,4 +92,8 @@ Even under the 1.5 degrees scenario, sea level rise is still expected to go over
 
 Climate change will lead to an increase in the spread of a variety of diseases [(Towers et al., 2013;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3770759/)  [Ryan et el., 2019)](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0007213).
 
+## Agricultural Subsidies
+
+Agricultural subsidies distort market prices, interfere with trade, adversely affect poor farmers in developing countries, burden US taxpayers, and lead to environmental degradation [(Ostria, 2013)](https://www.ncpathinktank.org/pdfs/ib126.pdf).
+
 </div>
