@@ -96,4 +96,10 @@ Climate change will lead to an increase in the spread of a variety of diseases [
 
 Agricultural subsidies distort market prices, interfere with trade, adversely affect poor farmers in developing countries, burden US taxpayers, and lead to environmental degradation [(Ostria, 2013)](https://www.ncpathinktank.org/pdfs/ib126.pdf).
 
+## Mitigative Behavior
+
+[Gifford (2011)](https://www.researchgate.net/publication/254734365_The_Dragons_of_Inaction_Psychological_Barriers_That_Limit_Climate_Change_Mitigation_and_Adaptation) identified a large number of psychological barriers that impede pro-environmental behavior. These can be divided into 7 categories: limited cognition about the problem, ideological worldviews, comparisons with others, sunk costs and behavioral momentum, discredence toward experts and authorities, perceived risks of change, and positive but inadequate behavior change.
+
+A belief in the scientific consensus on climate change acts as a gateway belief which causes a belief that climate change is happening, is human-caused, and is worrisome. These are in turn predictive of increased support for public action [(Linden et al., 2015)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118489).
+
 </div>
