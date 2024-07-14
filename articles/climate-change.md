@@ -62,6 +62,8 @@ Climate change threatens to cause the largest refugee crisis in human history, a
 
 Under an expected climate change scenario, there could be heightened global tensions due to large-scale migrations, conflict over resource scarcity, increased disease proliferation, geopolitical shifts, and societal reactions. This would be exacerbated under more extreme climate change scenarios [(Campbell et al., 2007)](https://csis-website-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/media/csis/pubs/071105_ageofconsequences.pdf).
 
+Reducing greenhouse gas emission can help reduce deaths associated with air pollution [(West, 2017)](https://sph.unc.edu/cphm/can-we-reduce-deaths-associated-with-air-pollution/).
+
 ## Solutions
 
 ### Energy Transition
