@@ -102,4 +102,8 @@ Agricultural subsidies distort market prices, interfere with trade, adversely af
 
 A belief in the scientific consensus on climate change acts as a gateway belief which causes a belief that climate change is happening, is human-caused, and is worrisome. These are in turn predictive of increased support for public action [(Linden et al., 2015)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118489).
 
+## Economic Cost of Climate
+
+Climate damages are estimated to be between 2.5-7.5% of GDP in 2050, and already over the past few decades have been found to cost a few percent of global GDP annually. Investment into mitigation will likely rise in the short to medium term, but this will be unproductive investment as it is replacing existing capital [(Nixon, 2019)](https://www.cheshirescouts.org.uk/wp-content/uploads/The-economic-impact-of-global-warming-Oxford-Economics.pdf). However, the benefits of adaptation policies may end up increasing GDP and paying for themselves [(OECD, 2015;](https://read.oecd-ilibrary.org/environment/the-economic-consequences-of-climate-change_9789264235410-en#page14)  [Cook, 2024)](https://skepticalscience.com/too-expensive-intermediate.htm).
+
 </div>
