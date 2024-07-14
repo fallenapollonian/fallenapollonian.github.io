@@ -82,4 +82,10 @@ The vast majority of CO2 emissions come from the richest people on the planet, w
 
 Earth's temperature has risen by an average of 0.08° Celsius per decade since 1880 or about 2° F in total. Since 1981, the rate of warming has doubled to 0.18° C per decade. The 10 warmest years in the historical record have all occurred since 2010 [(Lindsey & Dahlman, 2024)](https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature).
 
+## Ocean Effects
+
+Between 1900 and 2015 the sea level has risen an average 8 inches. Currently, it is rising at about an eighth of an inch per year, although this is expected to exponentially grow in the years to come. By 2100, it is projected that sea level will rise another 1-8 feet [(NOAA, 2021)](https://oceanservice.noaa.gov/facts/sealevelclimate.html).
+
+Even under the 1.5 degrees scenario, sea level rise is still expected to go over several meters over the next thousand years. The 2 degrees threshold would result in a 9-meter sea level rise. Economic costs in the world's largest coastal cities due to flooding in 2005 were $6 billion, in the year of Hurricane Katrina. This is expected to jump up to $1 trillion by 2050 [(OSU, 2018)](https://www.sciencedaily.com/releases/2018/07/180716130724.htm).
+
 </div>
