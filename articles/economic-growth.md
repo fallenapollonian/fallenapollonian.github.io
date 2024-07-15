@@ -35,4 +35,8 @@ Around the world, stricter regulation tends to increase unemployment. Tight hiri
 Anticompetitive business regulations such as price controls and administrative obstacles to starting a new business appear to lower labor force participation and employment rates [(Feldmann, 2009b)](https://www.sciencedirect.com/science/article/abs/pii/S0148619508000337).\
 There is a weak but positive effect of financial liberalization on growth on average [(Bumann et al., 2013)](https://www.sciencedirect.com/science/article/abs/pii/S0261560612002033).
 
+## Poverty
+
+A $100,000 increase in housing wealth among homeowners causes a 16-18% increase in the probability of having a child [(Lovenheim & Mumford, 2013)](https://sci-hub.ru/https://doi.org/10.1162/REST_a_00266).
+
 </div>
