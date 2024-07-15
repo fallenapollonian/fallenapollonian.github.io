@@ -78,10 +78,6 @@ Polygenic scores for educational attainment and intelligence were found to corre
 
 The black-white IQ gap tends to be smaller in counties with more republicans, more white people, and higher implicit anti-black racism. This suggests that systemic racism does not explain racial gaps in IQ tests [(Kirkegaard, 2023)](https://www.researchgate.net/publication/377204444_Systemic_Racism_Does_Not_Explain_Variation_in_Race_Gaps_on_Cognitive_Tests).
 
-## Taboo
-
-Race and IQ is a more taboo topic than even topics such as incest and pedophilia [(Pesta et al., 2024)](https://www.researchgate.net/publication/379846490_Is_Research_on_the_Genetics_of_Race_IQ_Gaps_Mythically_Taboo).
-
 ## Racial Classifications
 
 ### Expert Opinion
