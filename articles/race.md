@@ -82,8 +82,6 @@ The black-white IQ gap tends to be smaller in counties with more republicans, mo
 
 ### Expert Opinion
 
-The concept of race is generally rejected amongst anthropologists in the United States and Canada. Rejection is moderate in Europe, sizable in Poland and Cuba, and lowest in Russia and China. This suggests that there is cross-country variation in rejecting the race concept without global consensus [(Lieberman et al., 2004)](https://hrcak.srce.hr/file/8770).
-
 ### Clustering or Gradients
 
 Looking at a single loci of an individual, there is a relatively high probability of racial misclassification of the individual. This drops to zero when looking at a sufficiently large number of loci [(Edwards, 2003)](https://pubmed.ncbi.nlm.nih.gov/12879450/#:~:text=Abstract,between%20populations%20or%20ethnic%20groups). Thus, while the vast majority of genetic variation exists between members of a human population or ethnic group, this does not imply that one may be more genetically similar to a member of another group than a member of one's own.
