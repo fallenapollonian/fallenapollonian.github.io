@@ -8,8 +8,6 @@ permalink: /articles/race
 
 ## G Factor
 
-Cognitive function tests are measurement invariant across groups [(Taylor & Ziegler, 1987;](https://sci-hub.ru/https://doi.org/10.1177/001316448704700318)  [Kaufman et al., 1995;](https://sci-hub.ru/https://doi.org/10.1177/0013164495055003001)  [Pandolfi, 1997;](https://www.gwern.net/docs/iq/1997-pandolfi.pdf)  [Barnes et al., 2016)](https://sci-hub.ru/https://doi.org/10.1017/S1355617715001113), meaning that the tests can be used to assess cognition among racial groups.
-
 Spearman's g factor has also been demonstrated to exist across a multitude of nations, strongly suggesting that it is a universal phenomenon [(Rindermann, 2007;](https://emilkirkegaard.dk//en/wp-content/uploads/The-g-factor-of-international-cognitive-ability-comparisons-the-homogeneity-of-results-in-PISA-TIMSS-PIRLS-and-IQ-tests-across-nations.pdf)  [Warne & Burningham, 2019)](https://psycnet.apa.org/fulltext/2019-01683-001.pdf).
 
 The g factor also exists amongst chimpanzees, and the more g-loaded cognitive abilities had more genetic variance and phenotypic variance and were more heritable, suggesting it is associated with high interspecies variance and evolves rapidly [(Woodley et al., 2015)](https://sci-hub.ru/https://doi.org/10.1016/j.intell.2015.04.002).
