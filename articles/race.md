@@ -82,8 +82,6 @@ The black-white IQ gap tends to be smaller in counties with more republicans, mo
 
 ### Clustering or Gradients
 
-Looking at a single loci of an individual, there is a relatively high probability of racial misclassification of the individual. This drops to zero when looking at a sufficiently large number of loci [(Edwards, 2003)](https://pubmed.ncbi.nlm.nih.gov/12879450/#:~:text=Abstract,between%20populations%20or%20ethnic%20groups). Thus, while the vast majority of genetic variation exists between members of a human population or ethnic group, this does not imply that one may be more genetically similar to a member of another group than a member of one's own.
-
 There exists a positive correlation between novelty-seeking DRD4 polymorphisms and human migration distance out of Africa [(Matthews & Butler, 2011)](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajpa.21507?deniedAccessCustomisedMessage=&userIsAuthenticated=false).
 
 ### Phrenology and Craniometry
