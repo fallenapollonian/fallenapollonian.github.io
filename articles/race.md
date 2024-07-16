@@ -24,10 +24,6 @@ There exists strong publication bias in the stereotype threat literature which s
 
 There is a positive correlation between national IQ score and innovation [(Azam, 2017)](https://mpra.ub.uni-muenchen.de/76922/). Nations with higher average intelligence are more liberal (greater highest marginal individual tax rate and thus lower economic inequality), are less religious, and are more monogamous. Average intelligence appears to be the strongest predictor of these traits [(Kanazawa, 2009)](https://www.cambridge.org/core/journals/journal-of-biosocial-science/article/abs/iq-and-the-values-of-nations/B28886FC682668151084DF2E9DC5C0AF).
 
-## Test Bias
-
-The black-white IQ gap is larger on "non-cultural" test items compared to "cultural" test items because non-cultural items require more sheer reasoning ability than cultural items [(Jensen & McGurk, 1986)](http://arthurjensen.net/wp-content/uploads/2014/06/Black-White-Bias-in-Cultural-and-Noncultural-Test-Items-1987-by-Arthur-Robert-Jensen-Frank-C.-J.-McGurk.pdf).
-
 ## Climatic Variables
 
 Across African and Eurasian countries, nasal index, lower precipitation, and lower temperature are all positively associated with IQ [(Templer & Stephens, 2014)](https://www.researchgate.net/publication/264085536_The_relationship_between_IQ_and_climatic_variables_in_African_and_Eurasian_countries). However, temperature strongly predicts American state IQ, suggesting that evolution is not necessary for temperature and IQ to meaningfully co-vary [(Pesta & Poznanski, 2014)](https://www.sciencedirect.com/science/article/pii/S0160289614001019#:~:text=CWT%20proposes%20that%20race%20differences,selection%20premium%20on%20higher%20IQ.).
