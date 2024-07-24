@@ -82,8 +82,6 @@ Craniometry, which is the measurement of head size, is different from phrenology
 
 ## Speed of Evolution
 
-Human evolution has sped up in the past 40,000 years and has become 100 times faster in the past 5000 years alone [(Gibbons, 2007)](https://www.science.org/content/article/human-evolution-speeding).
-
 Research looking at 109 hominid skulls found that cranial capacities of skulls were highly correlated with paleoclimatic changes in temperature [(Ash & Gallup, 2007)](https://files.catbox.moe/l0ictr.pdf).
 
 </div>
