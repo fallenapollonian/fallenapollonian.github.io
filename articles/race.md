@@ -36,10 +36,6 @@ Races differ in mean cranial capacities, with Asians at the highest, then Europe
 
 Many of the amino acid polymorphic sites from the brain size regulating gene CASC5 have high frequencies of derived alleles in East Asians, but are rare in Europeans and Africans. This suggests that there was natural selection that tended to favor a larger gray matter volume in East Asians [(Shi et al., 2016)](https://files.catbox.moe/dmg1zr.pdf).
 
-## Racism
-
-The black-white IQ gap tends to be smaller in counties with more republicans, more white people, and higher implicit anti-black racism. This suggests that systemic racism does not explain racial gaps in IQ tests [(Kirkegaard, 2023)](https://www.researchgate.net/publication/377204444_Systemic_Racism_Does_Not_Explain_Variation_in_Race_Gaps_on_Cognitive_Tests).
-
 ## Racial Classifications
 
 ### Clustering or Gradients
