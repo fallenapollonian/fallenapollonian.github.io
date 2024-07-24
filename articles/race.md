@@ -38,15 +38,7 @@ Races differ in mean cranial capacities, with Asians at the highest, then Europe
 
 ## Cortical Structure
 
-MRI analysis indicates significant brain differences between caucasian and indian people [(Rao et al., 2017)](http://cds.iisc.ac.in/faculty/yalavarthy/Rao_Psyn_2017.pdf).
-
-Three-dimensional geometry of the cortical surface is highly predictive of individuals' genetic ancestry. It also shows distinct ancestral patterns in the folding and gyrification of the brain [(Fan et al., 2015)](https://files.catbox.moe/d8gdf7.pdf).
-
-Resting state functional MRI connectivity data can predict genetic ancestry at very high performance [(Altmann & Miranda, 2018)](https://www.biorxiv.org/content/10.1101/440776v1.full.pdf).
-
 Many of the amino acid polymorphic sites from the brain size regulating gene CASC5 have high frequencies of derived alleles in East Asians, but are rare in Europeans and Africans. This suggests that there was natural selection that tended to favor a larger gray matter volume in East Asians [(Shi et al., 2016)](https://files.catbox.moe/dmg1zr.pdf).
-
-[Kirkegaard & Fuerst (2023)](https://www.researchgate.net/publication/369479241_A_Multimodal_MRI-based_Predictor_of_Intelligence_and_Its_Relation_to_RaceEthnicity) found that when applying a multimodal MRI-based predictor of intelligence, race can confound models when a multiracial training sample is used because models learn to predict race and use race to predict intelligence
 
 ## Racism
 
