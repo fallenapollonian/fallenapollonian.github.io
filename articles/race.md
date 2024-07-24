@@ -20,10 +20,4 @@ There exist no ethnic differences in the heritability of intelligence [(Pesta et
 
 There is a positive correlation between national IQ score and innovation [(Azam, 2017)](https://mpra.ub.uni-muenchen.de/76922/). Nations with higher average intelligence are more liberal (greater highest marginal individual tax rate and thus lower economic inequality), are less religious, and are more monogamous. Average intelligence appears to be the strongest predictor of these traits [(Kanazawa, 2009)](https://www.cambridge.org/core/journals/journal-of-biosocial-science/article/abs/iq-and-the-values-of-nations/B28886FC682668151084DF2E9DC5C0AF).
 
-## Racial Classifications
-
-### Clustering or Gradients
-
-There exists a positive correlation between novelty-seeking DRD4 polymorphisms and human migration distance out of Africa [(Matthews & Butler, 2011)](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajpa.21507?deniedAccessCustomisedMessage=&userIsAuthenticated=false).
-
 </div>
