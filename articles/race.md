@@ -50,13 +50,9 @@ Many of the amino acid polymorphic sites from the brain size regulating gene CAS
 
 ## GWAS
 
-Alleles exhibiting significant and replicable positive associations with IQ are strongly correlated with country-level IQ. Allele frequencies varied by continents in a way corresponding to population differences in intelligence [(Piffer, 2015)](https://www.sciencedirect.com/science/article/abs/pii/S0160289615001087?via%3Dihub).
-
 A polygenic score for educational attainment, cognitive ability, and self-rated mathematical ability has been found to be higher amongst Jews compared to Catholics and Lutherans [(Dunkel et al., 2019)](https://www.researchgate.net/publication/330601752_Polygenic_Scores_Mediate_the_Jewish_Phenotypic_Advantage_in_Educational_Attainment_and_Cognitive_Ability_Compared_With_Catholics_and_Lutherans). However, [Freese et al. (2019)](https://www.researchgate.net/publication/334385807_Problems_with_a_Causal_Interpretation_of_Polygenic_Score_Differences_between_Jewish_and_non-Jewish_Respondents_in_the_Wisconsin_Longitudinal_Study) points out that the polygenic score differences would lead one to significantly overestimate the disparity in IQ that exists in reality, suggesting that one should be careful when interpreting group polygenic score differences.
 
 In general, it can be problematic to draw causal explanations of polygenic score differences between ancestral groups, because polygenic score differences can often make predictions between groups that don't fare in reality [(Rosenberg et al., 2019)](https://academic.oup.com/emph/article/2019/1/26/5262222). For example, polygenic score differences would predict that West Africans are much shorter than Europeans, when this isn't the case [(Freese et al., 2019)](https://www.researchgate.net/publication/334385807_Problems_with_a_Causal_Interpretation_of_Polygenic_Score_Differences_between_Jewish_and_non-Jewish_Respondents_in_the_Wisconsin_Longitudinal_Study).
-
-Polygenic scores for educational attainment and intelligence were found to correlate with population differences in IQ, with Asian populations at the highest, followed by Europeans, followed by Africans [(Piffer, 2019)](https://www.researchgate.net/publication/332076417_Evidence_for_Recent_Polygenic_Selection_on_Educational_Attainment_and_Intelligence_Inferred_from_Gwas_Hits_A_Replication_of_Previous_Findings_Using_Recent_Data).
 
 ## Racism
 
