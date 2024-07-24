@@ -70,14 +70,4 @@ The black-white IQ gap tends to be smaller in counties with more republicans, mo
 
 There exists a positive correlation between novelty-seeking DRD4 polymorphisms and human migration distance out of Africa [(Matthews & Butler, 2011)](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajpa.21507?deniedAccessCustomisedMessage=&userIsAuthenticated=false).
 
-### Phrenology and Craniometry
-
-Head size correlates with IQ [(Pietschnig et al., 2015)](https://www.sciencedirect.com/science/article/abs/pii/S014976341500250X). There are race differences in head size, and white and black children matched on IQ show on average no difference in head size [(Jensen & Johnson, 1994)](https://www.sciencedirect.com/science/article/abs/pii/0160289694900329).
-
-Craniometry, which is the measurement of head size, is different from phrenology which looks at scalp morphology. Scalp morphology cannot be used to infer levels of brain function in the healthy population [(Jones et al., 2018)](https://www.sciencedirect.com/science/article/pii/S0010945218301436).
-
-## Speed of Evolution
-
-Research looking at 109 hominid skulls found that cranial capacities of skulls were highly correlated with paleoclimatic changes in temperature [(Ash & Gallup, 2007)](https://files.catbox.moe/l0ictr.pdf).
-
 </div>
