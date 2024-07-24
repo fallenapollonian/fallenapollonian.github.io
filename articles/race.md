@@ -34,8 +34,6 @@ Black-white IQ gaps do not go away when SES is controlled for, but also IQ also 
 
 ## Brain Size
 
-Contemporary differences in racial IQs can be identified as far back as 10,000 years ago from differences in brain size [(Lynn, 2010)](https://www.sciencedirect.com/science/article/abs/pii/S0191886909003882?via%3Dihub).
-
 Races differ in mean cranial capacities, with Asians at the highest, then Europeans, and then Africans at the lowest [(Rushton & Rushton, 2003)](https://sci-hub.se/https://doi.org/10.1016/S0160-2896(02)00137-X). The relation between brain size and cognitive ability increases from Africans to Europeans to Asians [(Rushton & Ankney, 1996)](https://philipperushton.net/wp-content/uploads/2015/02/Brain-Size-and-Cognitive-Ability-Correlations-with-Age-Sex-Social-Class-and-Race-1996-by-John-Philippe-Rushton-C.-Davison-Ankney.pdf).
 
 ## Cortical Structure
