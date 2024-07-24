@@ -28,10 +28,6 @@ There is a positive correlation between national IQ score and innovation [(Azam,
 
 Exposure to infectious disease is a strong predictor of IQ across both American states and across countries internationally [(Eppig, 2011)](https://www.scientificamerican.com/article/why-is-average-iq-higher-in-some-places/).
 
-## Socioeconomics
-
-Black-white IQ gaps do not go away when SES is controlled for, but also IQ also determines SES so it is fallacious to assume that there is a unidirectional effect of SES on IQ [(Neisser et al., 1996)](https://scottbarrykaufman.com/wp-content/uploads/2012/01/IntUnknown.pdf).
-
 ## Brain Size
 
 Races differ in mean cranial capacities, with Asians at the highest, then Europeans, and then Africans at the lowest [(Rushton & Rushton, 2003)](https://sci-hub.se/https://doi.org/10.1016/S0160-2896(02)00137-X). The relation between brain size and cognitive ability increases from Africans to Europeans to Asians [(Rushton & Ankney, 1996)](https://philipperushton.net/wp-content/uploads/2015/02/Brain-Size-and-Cognitive-Ability-Correlations-with-Age-Sex-Social-Class-and-Race-1996-by-John-Philippe-Rushton-C.-Davison-Ankney.pdf).
