@@ -28,8 +28,6 @@ There is a positive correlation between national IQ score and innovation [(Azam,
 
 Exposure to infectious disease is a strong predictor of IQ across both American states and across countries internationally [(Eppig, 2011)](https://www.scientificamerican.com/article/why-is-average-iq-higher-in-some-places/).
 
-Hominid brain evolution since Homo Habilis between 1.9 million to 10 thousand years ago has been driven by population density, variation in paleoclimate, and temperature variation [(Bailey & Geary, 2009)](https://sci-hub.se/https://doi.org/10.1007/s12110-008-9054-0).
-
 ## Socioeconomics
 
 Black-white IQ gaps do not go away when SES is controlled for, but also IQ also determines SES so it is fallacious to assume that there is a unidirectional effect of SES on IQ [(Neisser et al., 1996)](https://scottbarrykaufman.com/wp-content/uploads/2012/01/IntUnknown.pdf).
