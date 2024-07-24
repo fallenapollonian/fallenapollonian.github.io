@@ -48,12 +48,6 @@ Many of the amino acid polymorphic sites from the brain size regulating gene CAS
 
 [Kirkegaard & Fuerst (2023)](https://www.researchgate.net/publication/369479241_A_Multimodal_MRI-based_Predictor_of_Intelligence_and_Its_Relation_to_RaceEthnicity) found that when applying a multimodal MRI-based predictor of intelligence, race can confound models when a multiracial training sample is used because models learn to predict race and use race to predict intelligence
 
-## GWAS
-
-A polygenic score for educational attainment, cognitive ability, and self-rated mathematical ability has been found to be higher amongst Jews compared to Catholics and Lutherans [(Dunkel et al., 2019)](https://www.researchgate.net/publication/330601752_Polygenic_Scores_Mediate_the_Jewish_Phenotypic_Advantage_in_Educational_Attainment_and_Cognitive_Ability_Compared_With_Catholics_and_Lutherans). However, [Freese et al. (2019)](https://www.researchgate.net/publication/334385807_Problems_with_a_Causal_Interpretation_of_Polygenic_Score_Differences_between_Jewish_and_non-Jewish_Respondents_in_the_Wisconsin_Longitudinal_Study) points out that the polygenic score differences would lead one to significantly overestimate the disparity in IQ that exists in reality, suggesting that one should be careful when interpreting group polygenic score differences.
-
-In general, it can be problematic to draw causal explanations of polygenic score differences between ancestral groups, because polygenic score differences can often make predictions between groups that don't fare in reality [(Rosenberg et al., 2019)](https://academic.oup.com/emph/article/2019/1/26/5262222). For example, polygenic score differences would predict that West Africans are much shorter than Europeans, when this isn't the case [(Freese et al., 2019)](https://www.researchgate.net/publication/334385807_Problems_with_a_Causal_Interpretation_of_Polygenic_Score_Differences_between_Jewish_and_non-Jewish_Respondents_in_the_Wisconsin_Longitudinal_Study).
-
 ## Racism
 
 The black-white IQ gap tends to be smaller in counties with more republicans, more white people, and higher implicit anti-black racism. This suggests that systemic racism does not explain racial gaps in IQ tests [(Kirkegaard, 2023)](https://www.researchgate.net/publication/377204444_Systemic_Racism_Does_Not_Explain_Variation_in_Race_Gaps_on_Cognitive_Tests).
