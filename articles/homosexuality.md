@@ -6,10 +6,6 @@ permalink: /articles/homosexuality
 
 <div markdown="1">
 
-### Social Support/Victimization
-
-Victimization has a significant indirect effect on the mental health of gay men [(Puckett et al., 2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5270763/). Victimization is highly prevalent amongst LGB youth with experiences of self-harm and suicide [(Williams et al., 2021)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245268). LGB young adults at the highest risk of attempting suicide and having other health problems are in fact ones who reported a high level of rejection by their families as a result of their sexual orientation [(Ryan et al., 2007;](https://www.semanticscholar.org/paper/Family-Rejection-as-a-Predictor-of-Negative-Health-Ryan-Huebner/dc50daf047dd7992f70cc327631386e350484c01)  [Ryan et al., 2010)](https://www.sciencedaily.com/releases/2010/12/101206093701.htm). A more supportive social environment was significantly associated with fewer suicide attempts for LGB youth, even after controlling for sociodemographic variables and other risk factors for suicide attempts [(Hatzenbuehler, 2011)](https://publications.aap.org/pediatrics/article-abstract/127/5/896/64904/The-Social-Environment-and-Suicide-Attempts-in?redirectedFrom=fulltext).
-
 ### Discrimination
 
 [Sears & Mallory (2014)](https://escholarship.org/uc/item/9qs0n354) reviewed the literature on sexual orientation and employment discrimination and found that there exists widespread and continuing employment discrimination against LGBT people, which affects them in terms of health, wages, job opportunities, productivity in the workplace, and job satisfaction. Moreover, [(Klawitter, 2014)](https://onlinelibrary.wiley.com/doi/10.1111/irel.12075) used meta-regression analysis and found that sexual orientation even after controlling for measures of work intensity explains the difference between homosexual and heterosexual men in terms of earnings. For women, the evidence is less conclusive. Same-sex borrowers tend to face discrimination in lending practices [(Sun & Gao, 2017)](https://www.pnas.org/content/116/19/9293).
