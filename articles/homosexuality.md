@@ -28,8 +28,6 @@ Experimental research suggests that people are less likely to engage in helping 
 
 Homophobes are the most likely to be homosexuals, and homophobia often stems from authoritarian parents [(Bryner, 2012)](https://www.scientificamerican.com/article/homophobes-might-be-hidden-homosexuals/).
 
-Homophobia has a substantial genetic component to it [(Willmes & Kandler, 2017)](https://link.springer.com/article/10.1007/s10519-017-9884-9).
-
 ### Coming Out
 
 Coming out about one's sexual orientation is linked to lower anxiety, more positive affectivity, and higher self esteem, and also correlated with higher levels of social support [(Jordan & Deluty, 2008)](https://www.tandfonline.com/doi/abs/10.1300/J082v35n02_03). However, social reactions mediated the relationship between identity development and self-disclosure. Concealing one's homosexual identity is linked to a significantly higher incidence of cancer and infectious diseases, at least among gay men [(Kemeny et al., 1996)](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0278-6133.15.4.243).
