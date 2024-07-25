@@ -215,6 +215,8 @@ However, this effect varies across cultures [(Rindermann et al., 2012)](https://
 
 Intelligence is also associated with thinking more like economists, who tend to among other things, trust market mechanisms [(Caplan & Miller, 2010)](https://econfaculty.gmu.edu/bcaplan/pdfs/intelligencethinklike.pdf).
 
+Cognitive ability is positively related to both personal liberalism and economic liberalism [(Kirkegaard et al., 2017)](https://www.researchgate.net/profile/Emil_O_W_Kirkegaard/publication/313890514_Cognitive_Ability_and_Political_Preferences_in_Denmark/links/58adc44b92851cf7ae85ac79/Cognitive-Ability-and-Political-Preferences-in-Denmark.pdf). There exists a general factor of personal liberalism and economic liberalism.
+
 ### Ideology and Well-Being
 
 Conservatives tend to be happier [(Wojcik et al., 2015)](https://www.science.org/doi/10.1126/science.1260817), have more meaning in life [(Newman et al., 2018)](https://journals.sagepub.com/doi/10.1177/1948550618768241), have better mental health [(Newport, 2007;](https://news.gallup.com/poll/102943/republicans-report-much-better-mental-health-than-others.aspx) [Kirkegaard, 2020)](https://www.researchgate.net/publication/339541044_Mental_illness_and_the_left), and are physically healthier [(Subramanian & Perkins, 2010;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2912481/) [Chan et al., 2019)](http://sciencedirect.com/science/article/abs/pii/S0191886919300054). These effects are due to a number of causes, most notably a belief in personal agency being a cause of the happiness and health effects [(Schlenker et al., 2012)](https://sci-hub.se/https://doi.org/10.1016/j.jrp.2011.12.009).
