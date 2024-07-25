@@ -6,10 +6,6 @@ permalink: /articles/homosexuality
 
 <div markdown="1">
 
-## Nature/Nurture
-
-There appears to be neurological differences between homosexuals and heterosexuals of the same sex [(Safron et al., 2017;](https://www.nature.com/articles/srep41314)  [Manzouri & Savic, 2018)](https://pubmed.ncbi.nlm.nih.gov/29227002/). GWAS and GWLS research has shown that same-sex sexual behavior has a genetic basis [(Ganna et al., 2019;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7082777/)  [Sanders et al., 2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8604844/). Twin studies have also revealed that same-sex sexual behavior is partly genetic in origin [(Whitam et al., 1993;](https://link.springer.com/article/10.1007/BF01541765)  [Alanko et al., 2010;](https://pubmed.ncbi.nlm.nih.gov/19172387/)  [Långström et al., 2010)](https://pubmed.ncbi.nlm.nih.gov/18536986/).
-
 ### Conversion Therapy
 
 Conversion therapy has been found to be ineffective in altering seuxal orientation without causing harm , being linked to depression, suicidality, anxiety, social isolation, and decreased capacity for intimacy [(Cornell, 2016;](https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-whether-conversion-therapy-can-alter-sexual-orientation-without-causing-harm/) [Ryan et al., 2020)](https://pubmed.ncbi.nlm.nih.gov/30403564/). According to one large survey, 57% of transgender and non-binary youth who have underwent conversion therapy reported a suicide attempt in the last year, significantly more than that of the gender transgender and non-binary population in general [(Paley, 2019)](https://www.thetrevorproject.org/survey-2019/?section=Conversion-Therapy-Change-Attempts), suggesting that conversion therapy efforts are ineffective for LGBT people in general.
