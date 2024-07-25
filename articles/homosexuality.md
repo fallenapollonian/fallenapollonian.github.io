@@ -6,14 +6,6 @@ permalink: /articles/homosexuality
 
 <div markdown="1">
 
-### Discrimination
-
-[Sears & Mallory (2014)](https://escholarship.org/uc/item/9qs0n354) reviewed the literature on sexual orientation and employment discrimination and found that there exists widespread and continuing employment discrimination against LGBT people, which affects them in terms of health, wages, job opportunities, productivity in the workplace, and job satisfaction. Moreover, [(Klawitter, 2014)](https://onlinelibrary.wiley.com/doi/10.1111/irel.12075) used meta-regression analysis and found that sexual orientation even after controlling for measures of work intensity explains the difference between homosexual and heterosexual men in terms of earnings. For women, the evidence is less conclusive. Same-sex borrowers tend to face discrimination in lending practices [(Sun & Gao, 2017)](https://www.pnas.org/content/116/19/9293).
-
-Experimental research suggests that people are less likely to engage in helping behavior towards a person if they are perceived as gay or lesbian compared to if they are perceived as straight [(Hendren & Blank, 2009)](https://psycnet.apa.org/record/2009-21801-006).
-
-Homophobes are the most likely to be homosexuals, and homophobia often stems from authoritarian parents [(Bryner, 2012)](https://www.scientificamerican.com/article/homophobes-might-be-hidden-homosexuals/).
-
 ### Coming Out
 
 Coming out about one's sexual orientation is linked to lower anxiety, more positive affectivity, and higher self esteem, and also correlated with higher levels of social support [(Jordan & Deluty, 2008)](https://www.tandfonline.com/doi/abs/10.1300/J082v35n02_03). However, social reactions mediated the relationship between identity development and self-disclosure. Concealing one's homosexual identity is linked to a significantly higher incidence of cancer and infectious diseases, at least among gay men [(Kemeny et al., 1996)](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0278-6133.15.4.243).
