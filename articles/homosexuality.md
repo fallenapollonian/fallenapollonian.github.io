@@ -6,25 +6,6 @@ permalink: /articles/homosexuality
 
 <div markdown="1">
 
-## Table of Contents
-- [Population](#population)
-- [Nature/Nurture](#nature/nurture)
-- - [Conversion Therapy](#conversion-therapy)
-- [Well-Being](#well-being)
-- - [Social Support/Victimization](#social-support/victimization)
-  - [Discrimination](#discrimination)
-  - [Coming out](#coming-out)
-  - [Sexual Health](#sexual-health)
-- [Policy](#policy)
-- - [Same-Sex Marriage](#same-sex-marriage)
-  - [Legal Protection](#legal-protection)
-  - [Same-Sex Parents](#same-sex-parents)
-- [Child Abuse](#child-abuse)
-
-## Population
-
-[Ward et al. (2014)](https://www.cdc.gov/nchs/data/nhsr/nhsr077.pdf) surveyed US adults to determine how many people were gay. 96.6% identified as straight,1.6% identified as gay/lesbian, 0.7% identified as bisexual, and 1.1% either did not know or did not answer.
-
 ## Nature/Nurture
 
 There appears to be neurological differences between homosexuals and heterosexuals of the same sex [(Safron et al., 2017;](https://www.nature.com/articles/srep41314)  [Manzouri & Savic, 2018)](https://pubmed.ncbi.nlm.nih.gov/29227002/). GWAS and GWLS research has shown that same-sex sexual behavior has a genetic basis [(Ganna et al., 2019;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7082777/)  [Sanders et al., 2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8604844/). Twin studies have also revealed that same-sex sexual behavior is partly genetic in origin [(Whitam et al., 1993;](https://link.springer.com/article/10.1007/BF01541765)  [Alanko et al., 2010;](https://pubmed.ncbi.nlm.nih.gov/19172387/)  [Långström et al., 2010)](https://pubmed.ncbi.nlm.nih.gov/18536986/).
