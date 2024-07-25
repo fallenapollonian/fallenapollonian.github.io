@@ -6,14 +6,6 @@ permalink: /articles/homosexuality
 
 <div markdown="1">
 
-### Sexual Health
-
-LGB men tend to have a disproportionately high number of sexual partners [(Jeffries, 2011;](https://www.guttmacher.org/sites/default/files/article_files/4315111.pdf)  [Mercer et al., 2016)](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-016-3149-z/tables/2). Gay men are more likely than lesbian women to accept a casual sex offer from other gay/lesbian people [(Matsick et al., 2021)](https://link.springer.com/article/10.1007/s10508-020-01864-y).
-
-Homosexual men are disproportionately likely to have and transmit a number of diseases, including HIV [(Ruiz et al., 2001;](https://www.ncbi.nlm.nih.gov/books/NBK222906/)  [CDC, 2015)](http://web.archive.org/web/20150712231441/https://www.cdc.gov/hiv/group/msm/index.html), syphilis [(Purcell et al., 2012)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3462414/), and hepatitis A [(Corey & Holmes, 1980)](https://pubmed.ncbi.nlm.nih.gov/6243391/). [Purcell et al. (2012)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3462414/) found that men who have sex with men scored 38 to 109 times as high on all disease metrics used compared to other men or women. Intestinal parasites are also a particular public health concern in the homosexual community [(Keystone et al., 1980;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1704818/)  [Abdolrasouli et al., 2009)](https://pubmed.ncbi.nlm.nih.gov/19653954/). Homosexual men experience greater all-cause mortality, primarily due to the HIV epidemic [(Cochran & Mays, 2011)](https://pubmed.ncbi.nlm.nih.gov/21493941/).
-
-More negative attitudes toward homosexuality are directly associated with a greater likelihood of unprotected anal sex over the following year. Moreover, lower self-esteem, more anxious symptoms, and childhood sexual abuse are indirectly related to more unprotected anal sex through more sexual partners, sexual encounters, and substance abuse symptoms [(Rosario et al., 2006)](https://guilfordjournals.com/doi/abs/10.1521/aeap.2006.18.5.444). Increased tolerance for homosexuals reduces the HIV rate through causing low-risk men to enter the pool of homosexual partners and causing sexually active men to substitute away from underground, anonymous, and risky behaviors [(Francis & Mialon, 2010)](https://www.sciencedirect.com/science/article/pii/S0167629609001441?via%3Dihub). Stigma surrounding LGB men also affects their HIV testing decisions [(Lott et al., 2022)](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-12761-5).
-
 ## Policy
 
 ### Same-Sex Marriage
