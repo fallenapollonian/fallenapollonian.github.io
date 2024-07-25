@@ -6,10 +6,6 @@ permalink: /articles/homosexuality
 
 <div markdown="1">
 
-### Coming Out
-
-Coming out about one's sexual orientation is linked to lower anxiety, more positive affectivity, and higher self esteem, and also correlated with higher levels of social support [(Jordan & Deluty, 2008)](https://www.tandfonline.com/doi/abs/10.1300/J082v35n02_03). However, social reactions mediated the relationship between identity development and self-disclosure. Concealing one's homosexual identity is linked to a significantly higher incidence of cancer and infectious diseases, at least among gay men [(Kemeny et al., 1996)](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0278-6133.15.4.243).
-
 ### Sexual Health
 
 LGB men tend to have a disproportionately high number of sexual partners [(Jeffries, 2011;](https://www.guttmacher.org/sites/default/files/article_files/4315111.pdf)  [Mercer et al., 2016)](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-016-3149-z/tables/2). Gay men are more likely than lesbian women to accept a casual sex offer from other gay/lesbian people [(Matsick et al., 2021)](https://link.springer.com/article/10.1007/s10508-020-01864-y).
