@@ -1071,4 +1071,8 @@ Officers speak with consistently less respect toward black vs white community me
 
 Each additional police officer abates approximately 0.1 homicides, effects which in per-capita terms are twice as large for black versus white victims. At the same time, larger police forces make more arrests for low-level "quality of life" offenses, which would have disproportionately burdensome effects for blacks. Thus, there is evidence that black communities are simultaneously over and under-policed [(Chalfin et al., 2020)](https://www.nber.org/papers/w28202).
 
+## Stereotypes
+
+People see same-size black men as larger and more threatening than same-size white men. Even black men are subject to this effect, although they didn't see the black men as more threatening than the white men [(APA, 2017)](https://www.apa.org/news/press/releases/2017/03/black-men-threatening). Black children are seen as older and less innocent and prompt a less essential conception of childhood than white same-age peers [(Goff et al., 2014)](https://www.apa.org/pubs/journals/releases/psp-a0035663.pdf).
+
 </div>
