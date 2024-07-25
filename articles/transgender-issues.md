@@ -9,7 +9,6 @@ permalink: /articles/transgender-issues
 ## Table of Contents
 - [Transition](#transition)
 - - [Social](#social)
-  - [Medical](#medical)
   - [Hormonal](#hormonal)
   - [Puberty Blockers](#puberty-blockers)
   - [Detransition and Regret](#detransition-and-regret)
@@ -58,14 +57,6 @@ permalink: /articles/transgender-issues
 [Mental Health and Self-Worth in Socially Transitioned Transgender Youth](https://www.jaacap.org/article/S0890-8567%2816%2931941-4/fulltext)
 
 - _"Transgender children reported depression and self-worth that did not differ from their matched-control or sibling peers (p = .311), and they reported marginally higher anxiety (p = .076). Compared with national averages, transgender children showed typical rates of depression (p = .290) and marginally higher rates of anxiety (p = .096). Parents similarly reported that their transgender children experienced more anxiety than children in the control groups (p = .002) and rated their transgender children as having equivalent levels of depression (p = .728)."_
-
-### Medical
-
-The vast majority of the evidence suggests that gender transition improves gender dysphoria, psychological symptoms, quality of life, and sexual function [(Pfäfflin & Junge, 1998;](https://web.archive.org/web/20070812100135/http://www.symposion.com:80/ijt/pfaefflin/6002-6.htm#Treatment%20Results)  [Murad et al., 2009;](https://pubmed.ncbi.nlm.nih.gov/19473181/)  [Manrique et al., 2018;](https://pubmed.ncbi.nlm.nih.gov/29489533/)  [What We Know Project, 2018:](https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/)  [Weinforth et al., 2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6546862/).
-
-This is the case with short-term follow-ups [(Cohen-Kettenis & Goozen, 1997;](https://pubmed.ncbi.nlm.nih.gov/9031580/)  [Rauchfleisch & Battegay, 1998;](https://pubmed.ncbi.nlm.nih.gov/9789272/)  [Smith et al., 2001;](https://www.jaacap.org/article/S0890-8567(09)60397-X/fulltext)  [Vries et al., 2014;](https://pubmed.ncbi.nlm.nih.gov/25201798/)  [Lindqvist et al., 2016;](https://link.springer.com/article/10.1007/s00238-016-1252-0)  [Grift et al., 2017;](https://www.tandfonline.com/doi/full/10.1080/0092623X.2017.1326190)  [Tordoff et al., 2022)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789423) , as well as medium- to long-term follow-ups [(Lindemalm et al., 1986; ](https://link.springer.com/article/10.1007/BF01542412)[Cuypere et al., 2005;](https://link.springer.com/article/10.1007/s10508-005-7926-5)  [(Cuypere et al., 2006;](https://www.sciencedirect.com/science/article/abs/pii/S1158136006000491?via%3Dihub)  [Johansson et al., 2010;](https://link.springer.com/article/10.1007/s10508-009-9551-1)  [Ruppin & Pfafflin, 2015;](https://link.springer.com/article/10.1007/s10508-014-0453-5)  [Branstrom & Pachankis, 2019)](https://ajp.psychiatryonline.org/doi/10.1176/appi.ajp.2019.19010080).
-
-Regret rates following sex reassignment are very low, estimated to be between 0.3%-3.8% [(Manrique et al., 2018;](https://pubmed.ncbi.nlm.nih.gov/29489533/)  [What We Know Project, 2018)](https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/). Note that when it comes to surgical decision making in general, self-reported patient regret has an average prevalence across studies of 14.4% [(Wilson et al., 2017)](https://pubmed.ncbi.nlm.nih.gov/28243695/), meaning that the regret rate for sex reassignment is shockingly low relative to other surgeries.
 
 ### Hormonal
 
