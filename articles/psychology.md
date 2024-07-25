@@ -114,6 +114,8 @@ This general factor has been shown to also exist in international cognitive abil
 
 There is expert consensus that g is an important non-trivial predictor or determinant of important real world outcomes, and that g tests are valid and generally do not have racial bias [(Reeve & Charles, 2008)](https://sci-hub.ru/https://doi.org/10.1016/j.intell.2008.03.007).
 
+Inbreeding is related to a lower intelligence, with the effects of inbreeding depression being most strongly correlated with the subtest's g loading [(Jensen, 1983)](https://sci-hub.ru/https://doi.org/10.1016/0191-8869(83)90054-5).
+
 ### IQ and Fertility
 
 There is a small negative correlation between cognitive ability and fertility among modern humans [(Lynn, 1999;](https://pubmed.ncbi.nlm.nih.gov/10842506/) [Reeve et al., 2018)](https://www.gwern.net/docs/genetics/selection/dysgenics/2018-reeve.pdf). There is strong assortative mating for intelligence [(Escorial & Buro, 2012)](https://sci-hub.se/https://doi.org/10.5209/rev_SJOP.2012.v15.n2.38879).
