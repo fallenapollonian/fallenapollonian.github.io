@@ -37,4 +37,16 @@ Developing countries that score better in protecting economic rights tend to gro
 Privately owned firms are more efficient and more profitable than otherwise comparable state-owned firms [(Megginson & Netter, 2001)](https://www.aeaweb.org/articles?id=10.1257/jel.39.2.321).\
 Market economies tend to have more productive efficiency compared to state socialist economies [(Land et al., 1994)](https://www.researchgate.net/publication/256353073_Productive_efficiency_under_capitalism_and_state_socialism).
 
+## Socialist Quality of Life
+
+In general, high democracy, strong left-wing regimes, social democratic welfare states, high public spending, fair trade policies, extensions to compulsory education provision, microfinance initiatives in low-income countries, health and safety policy, and high-quality affordable housing have positive health outcomes, while neoliberal restructuring seems to be associated with increased health inequalities and higher income inequality with lower health and mortality [(Lena & London, 1993;](https://journals.sagepub.com/doi/abs/10.2190/EQUY-ACG8-X59F-AE99)  [McCartney et al., 2019)](https://ajph.aphapublications.org/doi/10.2105/AJPH.2019.305001).
+
+Political traditions more committed to redistributive policies and full-employment policies have generally been more successful in improving population health [(Navarro & Shi, 2001)](https://pubmed.ncbi.nlm.nih.gov/11330781/).
+
+Capitalism does not show a preference for war [(Gartzke, 2007;](https://pages.ucsd.edu/~egartzke/publications/gartzke_ajps_07-1.pdf)  [Harrison, 2012)](https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/capitalism_at_war.pdf).
+
+High income, individualism, human rights, and societal equality strongly correlate with each other and with subjective well-being [(Diener et al., 2009)](https://link.springer.com/chapter/10.1007/978-90-481-2352-0_3).
+
+Low regulation and pro market attitudes have positive effects on life satisfaction [(Knoll et al., 2013)](https://www.tandfonline.com/doi/abs/10.1080/13504851.2012.762709).
+
 </div>
