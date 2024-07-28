@@ -1097,4 +1097,24 @@ Each additional police officer abates approximately 0.1 homicides, effects which
 
 People see same-size black men as larger and more threatening than same-size white men. Even black men are subject to this effect, although they didn't see the black men as more threatening than the white men [(APA, 2017)](https://www.apa.org/news/press/releases/2017/03/black-men-threatening). Black children are seen as older and less innocent and prompt a less essential conception of childhood than white same-age peers [(Goff et al., 2014)](https://www.apa.org/pubs/journals/releases/psp-a0035663.pdf).
 
+## Education
+
+There is a positive effect of having an own race teacher on student achievement [(Figilo, 2017)](https://www.brookings.edu/research/the-importance-of-a-diverse-teaching-force/).
+
+Prior knowledge of race/ethnic background, education-related deficiencies, physical unattractiveness and poor quality of prior performance all have substantial and roughly equal effect sizes in determining grading, suggesting heavy bias exists [(Malouff & Thorsteinsson, 2016)](https://journals.sagepub.com/doi/abs/10.1177/0004944116664618).
+
+Diversity in a classroom setting can be good in that it fosters greater social trust, a better learning environment, and more open-minded students [(Drexel, n.d.)](https://drexel.edu/soe/resources/student-teaching/advice/importance-of-cultural-diversity-in-classroom/).
+
+Students taught under faculty who underwent diversity training experienced a greater sense of community, personal growth, and conflict resolution skills [(Booker et al., 2016)](https://files.eric.ed.gov/fulltext/EJ1134528.pdf).
+
+There exists a racial gap between black and white students in suspensions, but this is completely accounted for by prior problem behavior [(Wright et al., 2014)](https://www.sciencedirect.com/science/article/abs/pii/S0047235214000105).
+
+School desegregation has had positive effects on both educational and occupational attainments, college quality and adult earnings, reduced the probability of incarceration, and improved adult health status [(Johnson, 2015)](https://www.nber.org/papers/w16664).
+
+Comprehensive school reform programs tend to lower the black-white achievement gap more than matched traditional schools, and their effects substantially to completely eliminated this gap in elementary middle schools [(Gorey, 2009)](https://epaa.asu.edu/ojs/index.php/epaa/article/view/708).
+
+Harlem Children's Zone charter schools closed the black-white achievement gap in mathematics [(Dobbie & Fryer, 2011)](https://www.aeaweb.org/articles?id=10.1257/app.3.3.158).
+
+Improvements in the relative quality of black schools in terms of pupil-teacher ratios, annual teacher pay, and term length for black and white schools explain some of the narrowing of the black-white earnings gap between 1960 and 1980 [(Card & Krueger, 1992)](https://sci-hub.ru/https://doi.org/10.2307/2118326).
+
 </div>
