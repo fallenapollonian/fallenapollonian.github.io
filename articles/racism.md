@@ -610,6 +610,22 @@ Further Information:
 
 </details>
 
+### Wealth
+
+The racial disparity in wages is entirely explained by differences in skills and abilities [(Neal & Johnson, 1996)](https://www.journals.uchicago.edu/doi/abs/10.1086/262045). In fact, not only does research suggest that the racial disparity in earnings disappears once cognitive ability itself is controlled for, but the returns to cognitive ability are higher for blacks than for nonblacks [(Kanazawa, 2005;](https://personal.lse.ac.uk/kanazawa/pdfs/MDE2005.pdf)  [Kirkegaard, 2018)](https://psyarxiv.com/qty3n/).
+
+Blacks and hispanics engage in more conspicuous consumption than whites [(Charles et al., 2009)](https://sci-hub.ru/https://doi.org/10.1162/qjec.2009.124.2.425).
+
+The racial wealth gap can be almost entirely explained by differences in observable factors, such as life cycle patterns, educational attainment, inheritance, attitudes toward saving and investing, and more [(Thompson & Suarez, 2015)](https://www.federalreserve.gov/econresdata/feds/2015/files/2015076pap.pdf).
+
+There is very little intergenerational mobility in net wealth for both black and white families according to data between 1984 and 2013 [(Toney, 2016)](https://ia601708.us.archive.org/9/items/source-872-toney-2016/Source872%20Toney2016.pdf).
+
+There exist ethnic group differences in measures of job performance. These differences are larger on objective measures compared to subjective measures [(Roth et al., 2003)](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0021-9010.88.4.694).
+
+When comparing former slaves and free blacks (free before 1865), it took roughly 2 generations for the descendents of slaves to catch up economically and educationally with the descendents of free black men and women [(Sacerdote, 2002)](https://www.nber.org/system/files/working_papers/w9227/w9227.pdf).
+
+A black family's long-run economic progress after slavery depended strongly on the location they were freed. Black families freed in states with more intensive Jim Crow institutions made less economic progress after slavery [(Althoff, 2022)](https://irs.princeton.edu/events/2022/Fall-Althoff-Lukas).
+
 ## Mental Health
 
 **White people on average have lower self-esteem, mental health, and higher suicide than at least some minority groups.**
