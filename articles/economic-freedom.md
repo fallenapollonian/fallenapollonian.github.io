@@ -51,4 +51,15 @@ Low regulation and pro market attitudes have positive effects on life satisfacti
 
 There is a strong positive association between reforms towards more free markets with regard to governments' respect for human rights [(Soysa & Vadlammanati, 2013)](https://link.springer.com/article/10.1007/s11127-011-9847-2).
 
+## Misc Socialism
+
+Delayed economic reform in India because of its prolonged experiment with socialism led to over ten million "missing children", amongst other negative effects on quality of life [(Aiyar, 2009)](https://www.cato.org/sites/cato.org/files/pubs/pdf/dbp4.pdf#page=7).
+
+A meta-analysis found that about 245,000 deaths in the US in 2000 were attributable to low levels of education, 176,000 to racial segregation, 162,000 to low social support, 133,000 to individual-level poverty, 119,000 to income inequality, and 39,000 to area-level poverty [(Columbia, 2011)](http://www.publichealth.columbia.edu/public-health-now/news/how-many-us-deaths-are-caused-poverty-lack-education-and-other-social-factors).
+
+The Soviet Union initially had high economic growth due to the fact that as a developing economy it could adopt western technology while forcibly mobilizing resources to use such technology. Once the country began to catch up with the west, it could no longer do this and its productivity diminished. Various piecemeal reforms it attempted undermined its institutions and failed to improve the situation [(Johnston, 2024)](https://www.investopedia.com/articles/investing/021716/why-ussr-collapsed-economically.asp#citation-2).
+
+Between 1950-1980, China experienced the most rapid sustained increase in life expectancy of any population in documented global history, primarily through gains in school enrollment and public health campaigns [(Babiarz et al., 2014)](https://www.tandfonline.com/doi/abs/10.1080/00324728.2014.972432?journalCode=rpst20).\
+Xiaogang farmers, who agreed in 1978 to have personal property and no longer have collectivization, immediately had a massive increase in their agricultural productivity. This was used as a model for the rest of the Chinese economy to move to a market system [(Kestenbaum & Goldstein, 2012)](https://www.npr.org/sections/money/2012/01/20/145360447/the-secret-document-that-transformed-china).
+
 </div>
