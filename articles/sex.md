@@ -81,4 +81,8 @@ Higher pornography use is associated with body dissatisfaction, poor body apprec
 
 Pornography is related to sexual aggression, particularly verbal as opposed to physical aggression [(Wright et al., 2015)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jcom.12201). However, as pornography availability increased, sex crimes either decreased or did not increase [(Diamond, 2009)](https://www.sciencedirect.com/science/article/abs/pii/S0160252709000715).
 
+## Porn and Actor Health
+
+Porn actresses had more sexual partners, were more concerned about STDs, and enjoyed sex more. They also had higher levels of self-esteem, positive feelings, social support, sexual satisfaction, and spirituality. They were however more likely to have used drugs [(Griffith et al., 2012)](https://pubmed.ncbi.nlm.nih.gov/23167939/).
+
 </div>
