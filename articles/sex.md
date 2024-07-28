@@ -85,4 +85,10 @@ Pornography is related to sexual aggression, particularly verbal as opposed to p
 
 Porn actresses had more sexual partners, were more concerned about STDs, and enjoyed sex more. They also had higher levels of self-esteem, positive feelings, social support, sexual satisfaction, and spirituality. They were however more likely to have used drugs [(Griffith et al., 2012)](https://pubmed.ncbi.nlm.nih.gov/23167939/).
 
+## Sex Work
+
+Repressive policing of sex workers is associated with increased risk of sexual/physical violence from clients or other partners, also increasing risk of STIs for sex workers. It also disrupted sex workers' work environments, support networks, safety and risk reduction strategies, and access to health services and justice [(Platt et al., 2018)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002680).
+
+Decriminalization of prostitution, while increasing the size of the sex market, also led to a significant decline in reported rape offences [(Bisschop et al., 2015;](https://conference.iza.org/conference_files/riskonomics2015/kastoryano_s6317.pdf)  [AAAS, 2017)](https://www.eurekalert.org/news-releases/718952).
+
 </div>
