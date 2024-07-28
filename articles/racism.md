@@ -1133,4 +1133,10 @@ Blacks, males, and Hispanics are more likely to be arrested than whites, females
 
 Some research suggests there exists anti-black bias in stops which persist even after controlling for crime or unlawfulness [(Gelman et al., 2007;](https://www.tandfonline.com/doi/abs/10.1198/016214506000001040)  [ACLU, 2014;](https://www.aclum.org/sites/default/files/wp-content/uploads/2015/06/reports-black-brown-and-targeted.pdf)  [ACLU, 2020)](https://www.acludc.org/sites/default/files/2020_06_15_aclu_stops_report_final.pdf). This is contradicted by other research [(Alpert et al., 2006;](https://www.ojp.gov/pdffiles1/nij/grants/213004.pdf)  [Ridgeway, 2007;](https://www.rand.org/pubs/technical_reports/TR534.html)  [Coviello & Persico, 2015;](https://sci-hub.se/https://doi.org/10.1086/684292)  [Pollock et al., 2016)](https://journals.sagepub.com/doi/abs/10.1177/0734016816648188?journalCode=cjra). [Unnever et al. (2017)](https://journals.sagepub.com/doi/10.1177/2153368717697104) finds that even after controlling for a wide range of factors, African Americans report significantly more trouble with the police.
 
+## Incarceration and Sentencing
+
+There is considerable conflict in empirical research results examining racial bias in sentencing decisions. On aggregate, there is no statistically significant effect but using a white/non-white racial classification scheme increases the likelihood of finding a significant result. Conflict also appears to be heavily a product of methodological differences between studies [(Pratt, 1998)](https://www.sciencedirect.com/science/article/abs/pii/S0047235298000282).
+
+There is an anti-black and anti-male bias in sentencing which exists even when controlling for prior offenses [(Pryor et al., 2017)](https://www.ussc.gov/sites/default/files/pdf/research-and-publications/research-publications/2017/20171114_Demographics.pdf).
+
 </div>
