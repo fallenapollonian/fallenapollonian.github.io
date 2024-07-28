@@ -1125,4 +1125,8 @@ The racial composition of speeders differs from that of non speeding drivers and
 
 [Baumgartner et al. (2018)](https://fbaum.unc.edu/TrafficStops/Baumgartner-etal-MeasuringDisparities-20May2018.pdf) analyzed over 40 million traffic stops and found that racial disparities in traffic stop outcomes cannot be fully explained by contextual factors such as the reason why the car was pulled over, the neighborhood that the stop took place, the time of day, or the age of the vehicle, or the race of the officer. This suggests that black and hispanic drivers are subjected to harsher police behaviors than whites. Minorities are less likely to receive a discount on their speeding tickets than white drivers [(Goncalves & Mello, 2020)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3627809).
 
+## Arrests
+
+Blacks, males, and Hispanics are more likely to be arrested than whites, females, and non-Hispanics, even after controlling for offense seriousness, amount of evidence, whether the suspect was under the influence of drugs or alcohol, whether the suspect used a weapon, the demeanor of the suspect, and whether the suspect committed a crime in front of the officer during an encounter [(Lytle, 2014)](https://www.sciencedirect.com/science/article/abs/pii/S0047235214000890).
+
 </div>
