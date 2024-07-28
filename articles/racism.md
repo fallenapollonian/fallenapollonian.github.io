@@ -506,6 +506,12 @@ Further Information:
 
 ### Housing
 
+There is mixed evidence on the effect of gentrification on crime [(Lee, 2010;](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9906.2010.00506.x)  [Kreager et al., 2014;](https://academic.oup.com/socpro/article/58/4/615/1667054)  [Barton, 2014;](https://journals.sagepub.com/doi/full/10.1177/0011128714549652)  [Boggess & Hipp, 2014;](https://www.tandfonline.com/doi/full/10.1080/07418825.2014.943799)  [Autor et al., 2017)](https://www.nber.org/system/files/working_papers/w23914/w23914.pdf). Some of these differences can be resolved through noting that gentrification appears to increase crime in the short run and decrease crime in the long-run, but also that its negative effects on crime is primarily concentrated in the frontier of where gentrification occurs in a neighborhood.
+
+The economic and residential segregation created by redlining persists in many cities, and inequality is much higher in cities which had redlining. Gentrification appears to be related to some lessening of segregation, but also with increased economic inequality [(Mitchell & Franco, 2018)](https://ncrc.org/wp-content/uploads/dlm_uploads/2018/02/NCRC-Research-HOLC-10.pdf).
+
+Redlining may be mostly a product of geographic discrimination in itself as opposed to racial discrimination [(Tootell, 1996)](https://sci-hub.ru/https://doi.org/10.2307/2946707).
+
 <details markdown="1">
   <summary>Mortgage Discrimination</summary>
 
