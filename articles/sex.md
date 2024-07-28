@@ -77,4 +77,8 @@ Those who use pornography have higher depressive symptoms, poorer quality of lif
 
 Higher pornography use is associated with body dissatisfaction, poor body appreciation, negative affect, and lower emotional bonding with partners [(Tylka, 2015)](https://psycnet.apa.org/record/2014-04664-001).
 
+## Porn and Violence
+
+Pornography is related to sexual aggression, particularly verbal as opposed to physical aggression [(Wright et al., 2015)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jcom.12201). However, as pornography availability increased, sex crimes either decreased or did not increase [(Diamond, 2009)](https://www.sciencedirect.com/science/article/abs/pii/S0160252709000715).
+
 </div>
