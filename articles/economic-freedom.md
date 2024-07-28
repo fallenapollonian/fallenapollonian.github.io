@@ -49,4 +49,6 @@ High income, individualism, human rights, and societal equality strongly correla
 
 Low regulation and pro market attitudes have positive effects on life satisfaction [(Knoll et al., 2013)](https://www.tandfonline.com/doi/abs/10.1080/13504851.2012.762709).
 
+There is a strong positive association between reforms towards more free markets with regard to governments' respect for human rights [(Soysa & Vadlammanati, 2013)](https://link.springer.com/article/10.1007/s11127-011-9847-2).
+
 </div>
