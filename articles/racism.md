@@ -1139,4 +1139,9 @@ There is considerable conflict in empirical research results examining racial bi
 
 There is an anti-black and anti-male bias in sentencing which exists even when controlling for prior offenses [(Pryor et al., 2017)](https://www.ussc.gov/sites/default/files/pdf/research-and-publications/research-publications/2017/20171114_Demographics.pdf).
 
+## Misc Affirmative Action
+
+In academic decision-making, there is a favoring of blacks, in spite of people possessing implicit and explicit preferences for whites over blacks [(Axt et al., 2016)](https://www.researchgate.net/publication/290510377_An_Unintentional_Robust_and_Replicable_Pro-Black_Bias_in_Social_Judgment).\
+There is a slight reduction in GPA as a result of an increase in the difference between an individual's SAT score and the institutional average, suggesting affirmative action has a negative effect on minority student outcomes [(Onuoha, 2018)](https://dash.harvard.edu/bitstream/handle/1/36853299/angel_onuoha_ec_970.pdf?sequence=1&isAllowed=y).
+
 </div>
