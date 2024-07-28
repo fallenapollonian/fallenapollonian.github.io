@@ -71,4 +71,10 @@ Abstinence-only education does not appear to protect against pregnancy and STIs 
 
 Comprehensive sex education appears to successfully delay sexual initiation [(Santelli, 2007;](https://doi.org/10.1097/GCO.0b013e3282efdc0b)  [Tortolero et al., 2010)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2818029/), as well as the development of healthy relationships, prevention of partner violence, prevention of child sex abuse, improved social/emotional learning, and increased media literacy [(Goldfarb & Lieberman, 2020)](https://www.jahonline.org/article/S1054-139X(20)30456-0/fulltext). Teaching about contraception is not associated with increased risk of adolescent sexual activity or STDs [(Kohler et al., 2008)](https://doi.org/10.1016/j.jadohealth.2007.08.026).
 
+## Porn and Health
+
+Those who use pornography have higher depressive symptoms, poorer quality of life, more mental- and physical-health-diminished days, and lower health status [(Weaver et al., 2011)](https://pubmed.ncbi.nlm.nih.gov/20946159/).
+
+Higher pornography use is associated with body dissatisfaction, poor body appreciation, negative affect, and lower emotional bonding with partners [(Tylka, 2015)](https://psycnet.apa.org/record/2014-04664-001).
+
 </div>
