@@ -20,4 +20,21 @@ A 2013 systematic literature review on the effects of economic freedom found tha
 - **Civil Society -** Economic freedom is associated with greater democracy [(Yevdokimov et al., 2018)](https://core.ac.uk/download/pdf/231765996.pdf),  greater political freedom [(Lawson & Clark, 2010)](https://www.sciencedirect.com/science/article/abs/pii/S0167268110000430), lower governmental corruption [(Cramer, 2020)](https://uca.edu/cahss/files/2020/07/02-Cramer-CLA-2020.pdf), a reduction in conflict [(Tures, 2003)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.319.4651&rep=rep1&type=pdf), and greater tolerance of different groups of people [(Berggren & Nilsson, 2012;](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2045577#:~:text=Regression%20analysis%20of%20up%20to,by%20how%20free%20markets%20are) [Berggren & Nilsson, 2020)](https://www.cato.org/sites/cato.org/files/2021-01/economic-freedom-of-the-world-2020-chapter-3.pdf).
 - **Air Quality -** Economic freedom appears to create incentives to abate local air pollution such as fine particulate matter, although such incentives do not appear to be created for carbon dioxide emissions which are more global in nature [(Wood & Herzog, 2014)](https://www.fraserinstitute.org/sites/default/files/economic-freedom-and-air-quality.pdf). This would make sense given the difficulty of coordination on an international scale which is required to reduce carbon dioxide emissions.
 
+## Socialism and Efficiency
+
+Economic institutions, such as well-specific property rights, the rule of law, economic freedom, and the quality of government, are positively related with human well-being [(Norton, 2003)](https://college.holycross.edu/eej/Volume29/V29N1P23_40.pdf).
+
+Increases in economic freedom correspond to larger reductions of the extreme poverty rate [(Connors, 2013)](https://web.archive.org/web/20200215062544/http://myweb.fsu.edu:80/jsc07e/Documents/Papers/Connors%20-%20Economic%20Institutions%20and%20Global%20Poverty.pdf).
+
+Individualism is positively related to long-run growth and innovation [(Hansen, 2013;](https://www.sciencedirect.com/science/article/abs/pii/S0165176512006362)  [Gorodnichenko & Roland, 2017)](https://eml.berkeley.edu/~ygorodni/gorrol_culture.pdf).
+
+Economic freedom indicators, while having problems, still demonstrate that liberalization stimulates economic growth [(Haan et al., 2006)](https://0x0.la/u/Wk50PsO.pdf).
+
+Socialist economies have generally underperformed relative to developed and most other developing economies [(Weill, 2008)](https://www.jstor.org/stable/41770296).
+
+Developing countries that score better in protecting economic rights tend to grow faster, score higher in human development, and economic rights are associated with democratic government and higher levels of average national income [(Goldsmith, 1997)](https://link.springer.com/article/10.1007/BF02687323).
+
+Privately owned firms are more efficient and more profitable than otherwise comparable state-owned firms [(Megginson & Netter, 2001)](https://www.aeaweb.org/articles?id=10.1257/jel.39.2.321).\
+Market economies tend to have more productive efficiency compared to state socialist economies [(Land et al., 1994)](https://www.researchgate.net/publication/256353073_Productive_efficiency_under_capitalism_and_state_socialism).
+
 </div>
