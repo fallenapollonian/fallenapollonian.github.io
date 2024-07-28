@@ -47,6 +47,12 @@ There is a negative association between pornography consumption and gray matter 
 Pornography use is not related to the intrapersonal domains of body and self-satisfaction in relationships but is negatively related to the interpersonal domains of sexual and relational satisfaction [(Wright et al., 2017)](https://www.researchgate.net/publication/314197900_Pornography_Consumption_and_Satisfaction_A_Meta-Analysis_Pornography_and_Satisfaction). This appears to only affect men however.\
 HIgher pornography consumption is linked with a greater chance of divorce [(Daines & Shumway, 2011;](https://web.archive.org/web/20150614230353id_/http://www.marriottschool.net/emp/boyer/financeseminar/s11_12/Tyler%20Shumway%20F11.pdf)  [Perry, 2018)](https://www.researchgate.net/publication/319508811_Pornography_Use_and_Marital_Separation_Evidence_from_Two-Wave_Panel_Data#:~:text=Binary%20logistic%20regression%20analyses%20showed,as%20well%20as%20relevant%20sociodemographic).
 
+Starting to watch pornography is associated for men and women with a significantly increased likelihood of divorce [(ASA, 2016)](https://www.eurekalert.org/news-releases/829948).
+
+Pornography use is either unassociated or negatively associated with nearly all relationship outcomes for married and unmarried Americans [(Perry, 2020)](https://www.researchgate.net/publication/337991489_Pornography_and_Relationship_Quality_Establishing_the_Dominant_Pattern_by_Examining_Pornography_Use_and_31_Measures_of_Relationship_Quality_across_30_National_Surveys).
+
+Adults who had watched pornographic films in the past year were more likely to be divorced, have had an extramarital affair, and report less marital and overall happiness [(Doran & Price, 2014)](https://link.springer.com/article/10.1007/s10834-014-9391-6).
+
 ## Polygamy
 
 Women in polygamous marriage have worsened mental health as compared with women in monogamous marriages [(Rahmanian et al., 2021)](https://files.catbox.moe/18e4px.pdf). Children with polygamous parents had significantly worse mental health than those with monogamous parents [(Bahari et al., 2021)](https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-021-04301-7).
