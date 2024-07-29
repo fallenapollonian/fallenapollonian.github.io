@@ -49,4 +49,10 @@ States that fund abortion have a significantly higher rate of abortions and sign
 
 Abortion rates are slightly lower in states with medicaid funding restrictions on abortion, although there is no effect on birth rates [(Haas-Wilson, 1997)](https://scholarworks.smith.edu/cgi/viewcontent.cgi?article=1007&context=eco_facpubs).
 
+## Argument
+
+Stem cells can remain alive in human corpses for at least 17 days after death [(LiveScience, 2012)](https://www.livescience.com/20897-living-stem-cells-discovered-human-corpse.html).
+
+Cremation in most cases is done between 24 and 72 hours after death [(CremationLondon, n.d.)](https://www.cremationlondon.com/resources/cremation-101/#:~:text=How%20long%20after%20you%20die,several%20business%20days%20to%20obtain).
+
 </div>
