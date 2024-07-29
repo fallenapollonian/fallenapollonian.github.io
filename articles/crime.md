@@ -22,4 +22,14 @@ Each death penalty inmate in the US is approximately $1.12 million (2015 USD) mo
 
 The death penalty has no deterrent effect on homicides [(Cochran et al., 1994;](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.1994.tb01148.x)  [Zimring et al., 2009)](https://scholarship.law.columbia.edu/faculty_scholarship/1587/).
 
+## Crime
+
+Lead pollution has a small but statistically significant positive effect on crime [(Higney et al., 2022)](https://www.sciencedirect.com/science/article/pii/S0166046222000667).
+
+Both poverty and income inequality are associated with violent crime, with homicide and assault showing stronger associations than rape and robbery [(Hsieh & Pugh, 1993)](https://sci-hub.ru/https://doi.org/10.1177/073401689301800203).
+
+Poverty, social exclusion, wage and income inequality, cultural and family background, level of education, age, and sex contribute to violent crime [(Buonanno, 2003)](https://ideas.repec.org/p/mib/wpaper/63.html).
+
+Racial heterogeneity, poverty, and family disruption are strong and stable predictors of crime, while variables related to the use of the criminal justice system were weak predictors. Social disorganization and resource/economic deprivation theories received strong empirical support, while deterrence/rational choice and subcultural theories received weak support [(Pratt & Cullen, 1995)](https://sci-hub.ru/https://doi.org/10.1086/655357).
+
 </div>
