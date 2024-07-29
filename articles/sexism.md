@@ -378,4 +378,10 @@ The happiest combination of traits for a worker tends to be male, middle-aged, m
 
 Survey data suggests that about one out of five undergraduate women experience an attempted or completed sexual assault during their college years [(Krebs et al., 2007)](https://www.ojp.gov/pdffiles1/nij/grants/221153.pdf).
 
+## Male Disposability
+
+Empathic sadness was higher in women, but both men and women display higher empathic sadness toward women than toward men [(Stuijfzand et al., 2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5112287/).
+
+There exists a greater moral condemnation of men's assaults on women and the belief that the victims of these assaults are in greater danger. This does not depend on gender, age, level of education, or political ideology of the respondent [(Felson & Feld, 2009)](https://pubmed.ncbi.nlm.nih.gov/19746441/).
+
 </div>
