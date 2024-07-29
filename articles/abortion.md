@@ -43,4 +43,10 @@ Research unanimously shows that bans on abortion lead to increases in maternal m
 
 There is conflicting research on whether abortion availability increases, decreases, or has no effect on crime [(Joyce, 2001;](https://www.nber.org/system/files/working_papers/w8319/w8319.pdf)  [Lott & Whitley, 2001;](https://openyls.law.yale.edu/bitstream/handle/20.500.13051/5452/SSRN_ID270126_code010515560.pdf?sequence=2&isAllowed=y)  [Donohue & Levitt, 2019)](https://bfi.uchicago.edu/wp-content/uploads/BFI_WP_201975.pdf).
 
+## Misc Abortion Policy
+
+States that fund abortion have a significantly higher rate of abortions and significantly lower rates of teen pregnancy, low-birthweight babies, premature births, and births with late or no prenatal care [(Meier & McFarlane, 1994)](https://ajph.aphapublications.org/doi/pdfplus/10.2105/AJPH.84.9.1468).
+
+Abortion rates are slightly lower in states with medicaid funding restrictions on abortion, although there is no effect on birth rates [(Haas-Wilson, 1997)](https://scholarworks.smith.edu/cgi/viewcontent.cgi?article=1007&context=eco_facpubs).
+
 </div>
