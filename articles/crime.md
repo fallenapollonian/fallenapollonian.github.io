@@ -14,4 +14,12 @@ Cost savings from private prisons are minimal to null, and quality of confinemen
 
 Restorative justice programs are significantly more effective in terms of victim and offender satisfaction, restitution compliance, and recidivism, although these are tempered by self-selection bias inherent in restorative justice research [(Latimer et al., 2005)](https://journals.sagepub.com/doi/10.1177/0032885505276969).
 
+## Death Penalty
+
+The consensus among criminologists is that the death penalty does not add any significant deterrent effect above that of long-term imprisonment [(Radelet & Lacock, 2009)](https://files.deathpenaltyinfo.org/legacy/files/DeterrenceStudy2009.pdf).
+
+Each death penalty inmate in the US is approximately $1.12 million (2015 USD) more than a general population inmate. This comes from more expensive living conditions, a much more extensive legal process, and increasing resistance to the death penalty from chemical manufacturers overseas [(McFarland, 2016)](https://www.researchgate.net/publication/324804378_The_Death_Penalty_vs_Life_Incarceration_A_Financial_Analysis).
+
+The death penalty has no deterrent effect on homicides [(Cochran et al., 1994;](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.1994.tb01148.x)  [Zimring et al., 2009)](https://scholarship.law.columbia.edu/faculty_scholarship/1587/).
+
 </div>
