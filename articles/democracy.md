@@ -74,4 +74,10 @@ Further Information:
 
 The impact of public opinion on public policy is substantial, and salience of issues enhances the impact. This impact remains strong even when the activities of political organizations and elites are taken into account [(Burstein, 2003;](https://www.jstor.org/stable/3219881#metadata_info_tab_contents)  [Page & Shapiro, 2014)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/effects-of-public-opinion-on-policy/856B172A7DC19A7EB72C569A7F6F2104). Policy also drives public opinion, as the public naturally responds positively or negatively to policy changes by the government [(Wlezien & Soroka, 2021)](https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-74).
 
+## Stability
+
+Democracies are less warlike than other regimes, particularly in terms of the severity of war [(Rummel, 1995)](https://www.hawaii.edu/powerkills/DP95.HTM).
+
+Polities with higher levels of democracy are more likely to be politically stable [(Tusalem, 2015)](https://www.jstor.org/stable/intesociscierevi.90.1.01).
+
 </div>
