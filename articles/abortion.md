@@ -35,4 +35,8 @@ Research unanimously shows that bans on abortion lead to increases in maternal m
 
 95% of biologists affirm that life begins at conception [(Jacobs, 2018)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3211703).
 
+## Mental Health
+
+[Coleman (2011)](https://pubmed.ncbi.nlm.nih.gov/21881096/) did a meta-analysis on the effects of abortion on mental health and found that it increased the risk of mental health problems, but there have been numerous flaws which render the study invalid [(Steinberg et al., 2012)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3646711/). There appears to be a significant amount of conflicting research in the area [(Ney & Wickett, 1989;](https://pubmed.ncbi.nlm.nih.gov/2682716/)  [Thorp et al., 2003;](https://journals.lww.com/obgynsurvey/Abstract/2003/01000/Long_Term_Physical_and_Psychological_Health.23.aspx)  [Fergusson et al., 2013;](https://pubmed.ncbi.nlm.nih.gov/23553240/)  [Reardon, 2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6207970/).
+
 </div>
