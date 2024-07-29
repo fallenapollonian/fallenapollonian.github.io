@@ -39,4 +39,8 @@ Research unanimously shows that bans on abortion lead to increases in maternal m
 
 [Coleman (2011)](https://pubmed.ncbi.nlm.nih.gov/21881096/) did a meta-analysis on the effects of abortion on mental health and found that it increased the risk of mental health problems, but there have been numerous flaws which render the study invalid [(Steinberg et al., 2012)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3646711/). There appears to be a significant amount of conflicting research in the area [(Ney & Wickett, 1989;](https://pubmed.ncbi.nlm.nih.gov/2682716/)  [Thorp et al., 2003;](https://journals.lww.com/obgynsurvey/Abstract/2003/01000/Long_Term_Physical_and_Psychological_Health.23.aspx)  [Fergusson et al., 2013;](https://pubmed.ncbi.nlm.nih.gov/23553240/)  [Reardon, 2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6207970/).
 
+## Abortion Law and Crime
+
+There is conflicting research on whether abortion availability increases, decreases, or has no effect on crime [(Joyce, 2001;](https://www.nber.org/system/files/working_papers/w8319/w8319.pdf)  [Lott & Whitley, 2001;](https://openyls.law.yale.edu/bitstream/handle/20.500.13051/5452/SSRN_ID270126_code010515560.pdf?sequence=2&isAllowed=y)  [Donohue & Levitt, 2019)](https://bfi.uchicago.edu/wp-content/uploads/BFI_WP_201975.pdf).
+
 </div>
