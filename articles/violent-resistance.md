@@ -14,4 +14,11 @@ On a more micro level, there is evidence that nonviolent protests helped the civ
 
 There is some research suggesting that the more recent BLM protests, when done more violently, are better at swaying public opinion in favor of the movement [(Shuman et al., 2022)](https://www.pnas.org/doi/10.1073/pnas.2118990119). However, the study utilized a dataset in which only a minority of protests were violent, and in that minority, it isn't clear whether the instigators were the demonstrators, counter-protesters, or aggressive government action. Thus, these may not be protests violently instigated by the protestors themselves.
 
+Most violent radicals and terrorist attacks are right-wing in nature, followed by islamist, and then left-wing [(Neiwert et al., 2017;](https://apps.revealnews.org/homegrown-terror/)  [UMD, 2024)](https://www.start.umd.edu/profiles-individual-radicalization-united-states-pirus-keshif).
+
+Terrorist groups rarely achieve their political objectives and are less likely to do so than are nonterrorist groups [(Abrahms, 2006;](https://direct.mit.edu/isec/article-abstract/31/2/42/11874/Why-Terrorism-Does-Not-Work?redirectedFrom=fulltext)  [Fortna, 2015)](https://www.cambridge.org/core/journals/international-organization/article/abs/do-terrorists-win-rebels-use-of-terrorism-and-civil-war-outcomes/4729B2B926904616190DC38DB3240C8F).
+
+Trump's election was associated with a statistically significant surge in reported hate crimes across the US even after controlling for alternative explanations. Moreover, counties that voted for Trump by the widest margins also experienced the largest increases in reported hate crimes [(Edwards & Rushin, 2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3102652).\
+Riots in the 1960s had negative labor market and economic effects on black people [(Collins & Margo, 2004a;](https://www.nber.org/system/files/working_papers/w10493/w10493.pdf)  [Collins & Margo, 2004b)](https://www.nber.org/system/files/working_papers/w10243/w10243.pdf).
+
 </div>
