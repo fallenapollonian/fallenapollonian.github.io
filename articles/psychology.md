@@ -368,4 +368,10 @@ There exists genetic influences which explain the overlap between low IQ and ant
 
 Black children tend to have less delay of gratification than white children [(Williams & Ramirez, 2010;](https://www.tandfonline.com/doi/abs/10.1080/00224545.1974.9923126)  [Castillo et al., 2011)](https://ideas.repec.org/a/eee/pubeco/v95y2011i11p1377-1385.html). A one standard deviation increase ein the discount rate is associated with an increase in the number of disciplinary referrals a child has the following school year by 14%.
 
+## Biology of Economics
+
+Savings propensities are about 33% heritable, and individuals are born with a persistent genetic predisposition to a specific savings behavior. Parenting has some effect on savings among younger individuals but this effect decays over time [(Cronqvist & Siegel, 2015)](https://www.jstor.org/stable/10.1086/679284#metadata_info_tab_contents).
+
+Lifetime income is 24% heritable in women and 54% heritable in men [(Hyytinen et al., 2015)](https://sci-hub.ru/https://doi.org/10.2139/ssrn.2253264).
+
 </div>
