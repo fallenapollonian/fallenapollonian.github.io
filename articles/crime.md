@@ -32,4 +32,12 @@ Poverty, social exclusion, wage and income inequality, cultural and family backg
 
 Racial heterogeneity, poverty, and family disruption are strong and stable predictors of crime, while variables related to the use of the criminal justice system were weak predictors. Social disorganization and resource/economic deprivation theories received strong empirical support, while deterrence/rational choice and subcultural theories received weak support [(Pratt & Cullen, 1995)](https://sci-hub.ru/https://doi.org/10.1086/655357).
 
+## Police
+
+There is a small negative effect of the size of a police force and crime rates [(Carriaga & Worrall, 2015;](https://www.researchgate.net/publication/283449163_Police_levels_and_crime_A_systematic_review_and_meta-analysis)  [Lee et al., 2016)](https://www.researchgate.net/publication/306313431_Conclusions_from_the_history_of_research_into_the_effects_of_police_force_size_on_crime-1968_through_2013_a_historical_systematic_review?fbclid=IwAR35XEZ3UeuPrfampXDGjODOvBDPFw98u1kuXg9mAYinYUvrWqoHsCzYZdw).
+
+Hot spots policing is effective in reducing crime [(Braga et al., 2019)](https://sci-hub.ru/https://doi.org/10.1007/s11292-019-09372-3).
+
+Community-oriented policing can positively affect citizen satisfaction, perceptions of disorder, and police legitimacy, but it has limited effects on crime and fear of crime [(Gill et al., 2014)](https://link.springer.com/article/10.1007/s11292-014-9210-y).
+
 </div>
