@@ -374,4 +374,14 @@ Savings propensities are about 33% heritable, and individuals are born with a pe
 
 Lifetime income is 24% heritable in women and 54% heritable in men [(Hyytinen et al., 2015)](https://sci-hub.ru/https://doi.org/10.2139/ssrn.2253264).
 
+## Belief
+
+Although there has been previous research suggesting that correcting misinformation may backfire, causing people to strengthen false misconceptions rather than reduce them, more recent research suggests that by and large citizens heed factual information, even when such information challenges their ideological commitments [(Wood & Porter, 2018;](https://link.springer.com/article/10.1007/s11109-018-9443-y)  [Lewandowsky et al., 2020)](https://skepticalscience.com/docs/DebunkingHandbook2020.pdf).
+
+Although many people may have the impression that people with conspiracy beliefs are very irrational and thus won't budge to new evidence, they in fact can. Research shows that belief in conspiracy theories can be reduced through rational argumentation [(Orosz et al., 2016)](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01525/full). This is in spite of the fact that many people who believe in conspiracy theories are motivated to do so, due to many people holding conspiracy theories having a need to uniqueness [(Imhoff & Lamberty, 2016)](https://www.researchgate.net/publication/314188232_Too_special_to_be_duped_Need_for_uniqueness_motivates_conspiracy_beliefs).
+
+A 2004 meta-analysis found that there is a sleeper effect, where a discounting piece of evidence is less persuasive immediately after exposure than it is later in time. The increase in persuasion is stronger when recipients of discounting cues have higher ability or motivation to think about the message [(Kumkale & Albarracín, 2004)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3100161/).
+
+Confirmation bias is the tendency to seek or interpret evidence in ways that are partial to existing beliefs, expectations, or a hypothesis in hand [(Nickerson, 1998)](https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175). This has been shown in the case of the evaluation of political arguments, where attitudinally congruent arguments are uncritically supported and evaluated as stronger than attitudinally incongruent arguments, which are counter-argued against [(Taber & Lodge, 2006)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2006.00214.x). The latter can be referred to as a disconfirmation bias. This can lead to attitude polarization. Whether a person's prior belief is accompanied by emotional conviction affects the magnitude and form of the disconfirmation bias [(Edwards & Smith, 1996)](https://psycnet.apa.org/record/1996-01782-001).
+
 </div>
