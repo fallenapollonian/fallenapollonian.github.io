@@ -4,6 +4,8 @@ title: Guns
 permalink: /articles/guns
 ---
 
+<div markdown="1">
+
 ## Homicide
 
 In high-income countries with more firearms, both men and women are at higher risk of homicide, particularly firearm homicide [(Hepburn & Hemenway, 2004)](https://files.catbox.moe/td3g80.pdf).
@@ -29,3 +31,17 @@ Changes in a household's gun ownership over time are associated with significant
 ## Economic Cost
 
 Firearm injuries in the US have an economic cost between hundreds of millions per year to tens of billions per year [(CSN, 2012;](https://www.childrenssafetynetwork.org/sites/default/files/TheCostofGunViolence.pdf)  [Lee et al., 2014;](https://www.sciencedirect.com/science/article/abs/pii/S0039606014000609)  [Spitzer et al., 2017)](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2017.303684).
+
+## General Strictness
+
+Stand-your-ground laws are at least in some contexts associated with increases in violence [(Yakubovich et al., 2021)](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2020.306101).
+
+A higher number of firearm laws in a state are associated with a lower rate of firearm fatalities in the state, overall, and for suicides and homicides individually [(Fleegler et al., 2013;](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1661390)  [Kaufman et al., 2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5885268/).
+
+[Makarios & Pratt (2008)](https://journals.sagepub.com/doi/abs/10.1177/0011128708321321?journalCode=cadc) did a meta-analysis and found that in the US, most gun policies are unrelated to gun violence, including gun buybacks, enhanced prison terms, waiting periods/background checks, weapons bans, and safe storage laws. The only gun law that had marginal effects was bans on the sale of firearms.
+
+According to a RAND corporation systematic review, in the US in general, stricter gun control results in lower gun crime [(RAND, n.d.)](https://www.rand.org/research/gun-policy/analysis.html).
+
+Across countries, analysis indicates that stricter gun control entails a strong negative effect on overall homicide and suicide rates [(Hurka & Knill, 2018)](https://www.researchgate.net/publication/329840934_Does_regulation_matter_A_cross-national_analysis_of_the_impact_of_gun_policies_on_homicide_and_suicide_rates).
+
+</div>
