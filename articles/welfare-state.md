@@ -38,3 +38,7 @@ The effects of social spending on economic growth are mixed and highly heterogen
 Nordic countries are characterized by high trust, which benefits the economy and has social benefits. This is in part due to their welfare state and education [(Nordic Council of Ministers, 2017)](https://norden.diva-portal.org/smash/get/diva2:1095959/FULLTEXT02.pdf).
 
 The minimum wage is worse at affecting poverty compared to an earned income tax credit, because it does not target households in need as well and the EITC increases labor force participation and employment [(Burkhauser & Corinth, 2021)](https://wol.iza.org/articles/minimum-wage-versus-earned-income-tax-credit-for-reducing-poverty).
+
+## Universality
+
+Universal benefits from an accounting perspective are effectively the same as means-tested benefits because they can always do a progressive income tax which has the same effect as a progressive means-tested income distribution program [(Bruenig, 2022)](https://www.peoplespolicyproject.org/2022/11/11/universal-benefits-cost-less-than-means-tested-benefits/).
