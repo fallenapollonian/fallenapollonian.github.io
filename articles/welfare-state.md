@@ -42,3 +42,7 @@ The minimum wage is worse at affecting poverty compared to an earned income tax 
 ## Universality
 
 Universal benefits from an accounting perspective are effectively the same as means-tested benefits because they can always do a progressive income tax which has the same effect as a progressive means-tested income distribution program [(Bruenig, 2022)](https://www.peoplespolicyproject.org/2022/11/11/universal-benefits-cost-less-than-means-tested-benefits/).
+
+## Unified Analysis
+
+The marginal value of public funds of various government policies is highest in direct investments on low-income children, including child health insurance expansions and college policies. These tend to pay for themselves. For policies targeting adults, they tend to involve budgetary tradeoffs as they cost the government on net. Expenditures on adults can have high MVPFs if they have spillover effects on children [(PolicyInsights, n.d.)](https://www.policyinsights.org/).
