@@ -32,3 +32,9 @@ The effects of social spending on employment are mixed but generally there is a 
 ## Economic Growth
 
 The effects of social spending on economic growth are mixed and highly heterogeneous depending on which studies are looked at [(Atkinson, 1996)](https://journals.sagepub.com/doi/abs/10.1177/056943459604000202). [Tomassi (2013)](https://www.researchgate.net/publication/293824842_When_is_social_protection_productivity-enhancing_Costs_and_benefits_on_economic_performances) suggests that the level of social spending alone is not sufficient to determine the impact on economic performance, but how the welfare system is designed and structured. [Furceri & Zdzienicka (2012)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-5890.2012.00155.x) found a short-term multiplier effect of social spending on economic activity, but [Churchill & Yew (2017)](https://ideas.repec.org/a/eee/ecmode/v64y2017icp270-287.html) did a meta-analysis and found that government transfers are more detrimental to economic growth in developed countries as opposed to less-developed countries. Part of the effect may be due to whether it is looking from a short-term versus long-term perspective. Social welfare schemes may be good in economic downturns.
+
+## Misc
+
+Nordic countries are characterized by high trust, which benefits the economy and has social benefits. This is in part due to their welfare state and education [(Nordic Council of Ministers, 2017)](https://norden.diva-portal.org/smash/get/diva2:1095959/FULLTEXT02.pdf).
+
+The minimum wage is worse at affecting poverty compared to an earned income tax credit, because it does not target households in need as well and the EITC increases labor force participation and employment [(Burkhauser & Corinth, 2021)](https://wol.iza.org/articles/minimum-wage-versus-earned-income-tax-credit-for-reducing-poverty).
