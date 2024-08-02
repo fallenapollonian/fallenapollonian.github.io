@@ -421,4 +421,22 @@ The rate of false reports of sexual assault tends to be found to be about 5%. Ho
 
 The more similar the 2D:4D digit ratio was between men and women in a country, the more equal the sexes were in parliamentary and labor force participation [(Manning et al., 2014)](https://journals.sagepub.com/doi/full/10.1177/147470491401200406#).
 
+## Workplace Gender Gaps
+
+After adjusting for human capital development, work experience, the occupations and industries in which the sexes work, and career interruptions, the adjusted gender pay gap is between 4.8-7.1%. Other unadjusted factors include health insurance, other fringe benefits, and detailed features of overtime work [(Cruz, 2009)](https://www.academia.edu/35974504/An_Analysis_of_Reasons_for_the_Disparity_in_Wages_Between_Men_and_Women_Containing_A_Foreword_by_the_Department_of_Labor_A_Report_by_CONSAD_Research_Corp_0).
+
+The life satisfaction of men and especially fathers increases steeply with paid working hours. The life satisfaction of childless women is less related to long working hours and the life satisfaction of mothers hardly depends on working hours at all. Additionally, women and especially mothers are more satisfied with life when their male partners work longer while the life satisfaction of men hardly depends on their female partners' work hours. These differences are starker where gender attitudes are more traditional, but cannot be explained through differences in income, occupations, partner characteristics, period or cohort effects. These results are found in various cultures around the world [(Schroder, 2020)](https://link.springer.com/article/10.1007/s11205-020-02433-5).
+
+There tends to be prejudice against female leaders and against women getting promotions [(Garcia-Retamero & López-Zafra, 2006;](https://link.springer.com/article/10.1007%2Fs11199-006-9068-1)  [Lyness & Heilman, 2006;](https://doi.apa.org/doiLanding?doi=10.1037%2F0021-9010.91.4.777)  [Artz & Taengnoi, 2016)](https://www.sciencedirect.com/science/article/abs/pii/S0927537116301129?via%3Dihub).
+
+In nursing, 9 out of 10 doctors are women. Here, there is approximately a $5000 salary gap even after adjusting for factors such as experience, education, work hours, clinical specialty, and marital and parental status [(Rapaport, 2015)](https://www.scientificamerican.com/article/even-in-nursing-no-equal-pay-for-women/).
+
+Between 1970 and 2007, many women entered highly rewarded occupations. However, this decreased the pay levels of these occupations due to them being feminized, particular in high-paid and male-typed occupations [(Mandel, 2013)](https://academic.oup.com/sf/article-abstract/91/4/1183/2235777).
+
+Women tend to negotiate salaries less, but this is in part due to the different ways in which society responds to women when they negotiate. Women who ask tend to get penalized more [(Bowles et al., 2007)](https://www.sciencedirect.com/science/article/abs/pii/S0749597806000884).
+
+Hiring experiments have shown that for mixed-gender and male stereotypical jobs gender discrimination was eliminated or if anything slightly reversed starting in 2009. Anti-male discrimination persisted over time in female stereotypical jobs however [(Shaerer et al., 2023)](https://www.sciencedirect.com/science/article/pii/S0749597823000560#:~:text=A%20meta%2Danalysis%20of%20field,the%20degree%20of%20remaining%20bias).
+
+A Finnish study found that women and men worked approximately equal hours, but that the women devoted 50% more time to domestic work. Irrespective of gender, negative work-family spillover (work demands interfering with family affairs) was associated with health problems. Paid work hours per week for women (men) were 41.7 (42.8), domestic hours per week were 29.8 (20.6), and total work hours per week were 71.2 (63.5). Women were significantly more negatively affected by negative family-work spillover than men (family affairs interfering with work demands). Only for men, there was a positive association between sickness absence and domestic work hours. Women had slightly higher psychological distress and men had slightly higher suboptimal health. Both of these differences were only a few percentage points [(Väänänen et al., 2004)](https://www.tandfonline.com/doi/pdf/10.1300/J013v40n03_01).
+
 </div>
