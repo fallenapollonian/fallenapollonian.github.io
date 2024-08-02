@@ -46,4 +46,8 @@ Drug-related and gang-related homicides, as well as robberies, in states borderi
 
 Increasing drug law enforcement leads to higher gun violence and high homicide rates, and the disruption of drug markets increases violence without decreasing drug supply [(Werb et al., 2010)](https://www.hri.global/files/2011/03/25/ICSDP_Violence_and_Enforcement_Report_March_2011.pdf).
 
+## Drug Policy and Drug Use
+
+The legalization of marijuana does not result in increased adolescent marijuana usage [(Choo et al., 2014;](https://www.jahonline.org/article/S1054-139X(14)00107-4/fulltext)  [Anderson et al., 2015)](https://sci-hub.hkvisa.net/10.1093/aler/ahv002), although it may slightly increase general marijuana usage [(Zellers et al., 2022)](https://onlinelibrary.wiley.com/doi/10.1111/add.16016).
+
 </div>
