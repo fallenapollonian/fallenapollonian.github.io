@@ -443,4 +443,8 @@ A Finnish study found that women and men worked approximately equal hours, but t
 
 Feminists tend to report lower levels of hostility toward men than nonfeminists (Anderson et al., 2009).
 
+## Marriage and Families
+
+Paternal incarceration is associated with increased physical aggression for boys, and these effects are concentrated among boys whose fathers were neither incarcerated for a violent offense nor abusive to the boys' mother. The removal of abusive fathers has on net results decreased physical aggression for boys [(Wildeman, 2010)](https://academic.oup.com/sf/article-abstract/89/1/285/2235254?redirectedFrom=fulltext&login=false).
+
 </div>
