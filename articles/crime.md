@@ -50,4 +50,8 @@ Increasing drug law enforcement leads to higher gun violence and high homicide r
 
 The legalization of marijuana does not result in increased adolescent marijuana usage [(Choo et al., 2014;](https://www.jahonline.org/article/S1054-139X(14)00107-4/fulltext)  [Anderson et al., 2015)](https://sci-hub.hkvisa.net/10.1093/aler/ahv002), although it may slightly increase general marijuana usage [(Zellers et al., 2022)](https://onlinelibrary.wiley.com/doi/10.1111/add.16016).
 
+## Supervised Injection Sites
+
+Supervised injection sites reduce overdose mortality, reduce ambulance calls for treating overdoses, and decrease HIV infections, without increasing drug injection, trafficking, or crime in the surrounding environments [(Potier et al., 2014;](https://www.sciencedirect.com/science/article/abs/pii/S0376871614018754)  [Ng et al., 2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5685449/). Decreased needle sharing and better health services at safe injection sites resulted in Vancouver's supervised injection facility saving more than $20 million and 1070 life years gained [(Bayoumi & Zaric, 2008)](https://www.cmaj.ca/content/179/11/1143).
+
 </div>
