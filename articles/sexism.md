@@ -447,4 +447,6 @@ Feminists tend to report lower levels of hostility toward men than nonfeminists 
 
 Paternal incarceration is associated with increased physical aggression for boys, and these effects are concentrated among boys whose fathers were neither incarcerated for a violent offense nor abusive to the boys' mother. The removal of abusive fathers has on net results decreased physical aggression for boys [(Wildeman, 2010)](https://academic.oup.com/sf/article-abstract/89/1/285/2235254?redirectedFrom=fulltext&login=false).
 
+Age gaps in relationships are natural and exist cross-culturally [(Buss, 1989)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0E112ACEB2E7BC877805E3AC11ABC889/S0140525X00023992a.pdf/sex-differences-in-human-mate-preferences-evolutionary-hypotheses-tested-in-37-cultures.pdf).
+
 </div>
