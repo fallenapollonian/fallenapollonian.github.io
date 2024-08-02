@@ -40,4 +40,10 @@ Hot spots policing is effective in reducing crime [(Braga et al., 2019)](https:/
 
 Community-oriented policing can positively affect citizen satisfaction, perceptions of disorder, and police legitimacy, but it has limited effects on crime and fear of crime [(Gill et al., 2014)](https://link.springer.com/article/10.1007/s11292-014-9210-y).
 
+## Drug Policy and Crime
+
+Drug-related and gang-related homicides, as well as robberies, in states bordering Mexico with medical marijuana laws decreased following the passage of such laws. There was a decrease in the amount of cocaine seized and an increase in the price of cocaine, suggesting that such laws cripple drug-trafficking organizations who rely on revenue from marijuana [(Gavrilova et al., 2014)](https://conference.iza.org/conference_files/riskonomics2015/zoutman_f21865.pdf).
+
+Increasing drug law enforcement leads to higher gun violence and high homicide rates, and the disruption of drug markets increases violence without decreasing drug supply [(Werb et al., 2010)](https://www.hri.global/files/2011/03/25/ICSDP_Violence_and_Enforcement_Report_March_2011.pdf).
+
 </div>
