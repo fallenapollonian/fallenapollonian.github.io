@@ -439,4 +439,8 @@ Hiring experiments have shown that for mixed-gender and male stereotypical jobs 
 
 A Finnish study found that women and men worked approximately equal hours, but that the women devoted 50% more time to domestic work. Irrespective of gender, negative work-family spillover (work demands interfering with family affairs) was associated with health problems. Paid work hours per week for women (men) were 41.7 (42.8), domestic hours per week were 29.8 (20.6), and total work hours per week were 71.2 (63.5). Women were significantly more negatively affected by negative family-work spillover than men (family affairs interfering with work demands). Only for men, there was a positive association between sickness absence and domestic work hours. Women had slightly higher psychological distress and men had slightly higher suboptimal health. Both of these differences were only a few percentage points [(Väänänen et al., 2004)](https://www.tandfonline.com/doi/pdf/10.1300/J013v40n03_01).
 
+## Random
+
+Feminists tend to report lower levels of hostility toward men than nonfeminists (Anderson et al., 2009).
+
 </div>
