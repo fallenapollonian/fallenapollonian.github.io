@@ -44,4 +44,8 @@ According to a RAND corporation systematic review, in the US in general, stricte
 
 Across countries, analysis indicates that stricter gun control entails a strong negative effect on overall homicide and suicide rates [(Hurka & Knill, 2018)](https://www.researchgate.net/publication/329840934_Does_regulation_matter_A_cross-national_analysis_of_the_impact_of_gun_policies_on_homicide_and_suicide_rates).
 
+The strongest evidence is consistent with the claim that the Australian 1996 National Firearms Agreement caused reductions in firearm suicides, mass shootings, and female homicide victimization, although there is still evidence that raises questions [(Ramchand & Saunders, 2021)](https://www.rand.org/research/gun-policy/analysis/essays/1996-national-firearms-agreement.html).
+
+Research from 130 studies in 10 different countries suggests that in some countries the simultaneous implementation of laws targeting multiple firearms restrictions is associated with reductions in firearms deaths, as well as background check and safer storage laws [(Santaella-Tenorio et al., 2016)](https://pubmed.ncbi.nlm.nih.gov/26905895/).
+
 </div>
