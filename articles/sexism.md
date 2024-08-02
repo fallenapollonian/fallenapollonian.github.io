@@ -415,4 +415,10 @@ Feminist activist women have a more masculine 2d:4d digit ratio and tend to be m
 
 Women tend to prefer benevolent sexist men to nonsexist men [(Bohner et al.., 2009;](https://files.catbox.moe/r4e3eb.pdf)  [Gul & Kupfer, 2018)](https://files.catbox.moe/1scdcp.pdf).
 
+## Rape Accusations
+
+The rate of false reports of sexual assault tends to be found to be about 5%. However, the total false reporting rate, including both confirmed and equivocal cases would be greater than this 5% rate [(Ferguson & Malouff, 2015)](https://link.springer.com/article/10.1007/s10508-015-0666-2).
+
+The more similar the 2D:4D digit ratio was between men and women in a country, the more equal the sexes were in parliamentary and labor force participation [(Manning et al., 2014)](https://journals.sagepub.com/doi/full/10.1177/147470491401200406#).
+
 </div>
