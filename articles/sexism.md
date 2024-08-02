@@ -393,4 +393,18 @@ Some experimental and quasi-experimental evidence suggests that there is no asso
 Female education reduces fertility [(Dincer et al., 2014;](https://www.sciencedirect.com/science/article/pii/S0305750X14001697)  [Pradhan, 2015;](https://blogs.worldbank.org/health/female-education-and-childbearing-closer-look-data)  [Tequame & Tirivayi, 2015;](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2637960)  [Ali & Gurmu, 2016)](https://link.springer.com/article/10.1007/s11150-016-9357-6).\
 Boys tend to have a relative strength in technical/numerical subjects and girls tend to have a relative strength in verbal/language ones. Boys and girls largely pursued careers cognitively matching their initial academic strengths, although men and women matched on these strengths made different career choices. In particular, women with technical/numerical strengths largely avoided careers demanding these skills [(Dekhtyar et al., 2018)](https://www.sciencedirect.com/science/article/abs/pii/S0160289617302167).
 
+## Gender Gap in STEM
+
+[Stewart-Williams & Halsey (2021)](https://sci-hub.ru/https://doi.org/10.1177/0890207020962326) found that there are a number of reasons why women are underrepresented in STEM, a mix of biological and social causes:
+
+* Interests - Men tend to be more interested in working with things, women people; men tend to express more interest in STEM; Men place more interest in career success and less in work-life balance and time for friends and family. These interests have remained stable across time and cultures, emerge in early development, and are shaped by prenatal hormones, suggesting a biological cause. This is likely evolutionarily due to women requiring a larger minimum biological investment into their children, with pregnancy and breastfeeding.
+
+* Cognitive ability - Men have higher spatial ability, women higher linguistic ability. It is far from obvious that on net stereotypes favor boys or girls in terms of mental ability, suggesting little to no role of stereotyping. These differences have been found in early development, are linked to sex hormones, exist cross-culturally, and have not been lowered by efforts without diminishing returns. These differences might be due to men being more likely to be hunters.
+
+* Variability - Males have higher variability in various cognitive capacities, as well as general cognitive ability. Variability is also found in other traits such as height, birth weight, and BMI, variability in cognitive attributes shows up in early childhood, and variability differences are found in other animals. This may be due to more variable male reproductive success, or that the more heterogametic sex just happens to be more variable.
+
+* Discrimination - There is a large number of studies indicating discrimination against women, the sheer number of which strongly implies some anti-female bias in STEM, although there is also a similarly large number of studies suggesting no bias or an anti-male bias. Overall, the evidence seems mixed, either because there exists pockets of anti-male or anti-female bias in various domains and areas of STEM, or because the findings are inconclusive, suggesting bias cannot be hugely prevalent. This suggests that discrimination only plays a small role in sex disparities in STEM.
+
+In sum, there are many factors at play.
+
 </div>
