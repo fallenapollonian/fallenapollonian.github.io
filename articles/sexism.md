@@ -407,4 +407,12 @@ Boys tend to have a relative strength in technical/numerical subjects and girls 
 
 In sum, there are many factors at play.
 
+## Attitudes/Stereotypes
+
+Women have a higher in-group bias than men [(Rudman & Goodwin, 2004;](https://rutgerssocialcognitionlab.weebly.com/uploads/1/3/9/7/13979590/rudmangoodwin2004jpsp.pdf)  [Hook, 2019)](https://link.springer.com/chapter/10.1007/978-3-030-04384-1_9).
+
+Feminist activist women have a more masculine 2d:4d digit ratio and tend to be more dominant in their personality [(Madison et al., 2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4158978/).
+
+Women tend to prefer benevolent sexist men to nonsexist men [(Bohner et al.., 2009;](https://files.catbox.moe/r4e3eb.pdf)  [Gul & Kupfer, 2018)](https://files.catbox.moe/1scdcp.pdf).
+
 </div>
