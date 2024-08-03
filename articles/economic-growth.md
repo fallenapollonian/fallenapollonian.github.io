@@ -53,4 +53,10 @@ Veterans affairs healthcare generally performs similarly or better than non vete
 
 Longer healthcare wait times are associated with greater risk of mortality [(Prentice & Pizer, 2007;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1955366/)  [Barua et al., 2014;](https://www.fraserinstitute.org/sites/default/files/effect-of-wait-times-on-mortality-in-canada.pdf)  [Pincus et al., 2017)](https://jamanetwork.com/journals/jama/fullarticle/2664460).
 
+Public healthcare in low and middle-income countries was less efficient than private healthcare, but private healthcare had worse patient outcomes and more frequently violated medical standards of practice [(Basu et al., 2012)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3378609/).
+
+The US spends far more on healthcare than other high-income countries, but their quality of care is worse notably in terms of mortality amenable to health. Universality appears to be the best way to improve healthcare, although there is diversity in how that is achieved [(Schneider et al., 2017)](https://interactives.commonwealthfund.org/2017/july/mirror-mirror/).
+
+Single-payer healthcare financing in the US has been found in the majority of studies to amount to a net savings in the long-run [(Cai et al., 2020)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003013).
+
 </div>
