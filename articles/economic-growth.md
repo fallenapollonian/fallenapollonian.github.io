@@ -45,4 +45,6 @@ Fiscal policy or public spending has a sizable negative effect on profits and bu
 
 There is a robust negative effect of government spending and taxation on economic growth in rich countries, based on a sample during the period of 1970-95 [(Folster & Henrekson, 2001)](https://www.ifn.se/Wfiles/wp/wp503.pdf).
 
+Government size negatively correlates with growth when controlling for economic freedom and globalization [(Bergh & Karlsson, 2009)](https://link.springer.com/article/10.1007/s11127-009-9484-1).
+
 </div>
