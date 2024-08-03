@@ -47,4 +47,10 @@ There is a robust negative effect of government spending and taxation on economi
 
 Government size negatively correlates with growth when controlling for economic freedom and globalization [(Bergh & Karlsson, 2009)](https://link.springer.com/article/10.1007/s11127-009-9484-1).
 
+## Healthcare
+
+Veterans affairs healthcare generally performs similarly or better than non veterans affairs healthcare [(O'Hanlon et al., 2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5215146/).
+
+Longer healthcare wait times are associated with greater risk of mortality [(Prentice & Pizer, 2007;](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1955366/)  [Barua et al., 2014;](https://www.fraserinstitute.org/sites/default/files/effect-of-wait-times-on-mortality-in-canada.pdf)  [Pincus et al., 2017)](https://jamanetwork.com/journals/jama/fullarticle/2664460).
+
 </div>
