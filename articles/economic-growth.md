@@ -39,4 +39,10 @@ There is a weak but positive effect of financial liberalization on growth on ave
 
 A $100,000 increase in housing wealth among homeowners causes a 16-18% increase in the probability of having a child [(Lovenheim & Mumford, 2013)](https://sci-hub.ru/https://doi.org/10.1162/REST_a_00266).
 
+## Big Government
+
+Fiscal policy or public spending has a sizable negative effect on profits and business investment [(Alesina et al., 2002)](https://www.aeaweb.org/articles?id=10.1257/00028280260136255).
+
+There is a robust negative effect of government spending and taxation on economic growth in rich countries, based on a sample during the period of 1970-95 [(Folster & Henrekson, 2001)](https://www.ifn.se/Wfiles/wp/wp503.pdf).
+
 </div>
