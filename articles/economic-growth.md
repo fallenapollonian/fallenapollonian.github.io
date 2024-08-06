@@ -59,4 +59,8 @@ The US spends far more on healthcare than other high-income countries, but their
 
 Single-payer healthcare financing in the US has been found in the majority of studies to amount to a net savings in the long-run [(Cai et al., 2020)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003013).
 
+Direct government funding is more important in the development of the most innovative new drugs, than it is for standard drugs. Government funding has played an indirect role by funding basic underlying research that is built on in almost half of the drugs approved and in almost 2/3rds of priority-review drugs [(Sampat & Lichtenberg, 2011)](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2009.0917).
+
+US pharmaceutical innovation is not exceptionally good compared to other countries as a proportion of its GDP and many countries with drug price regulation are significant contributors to pharmaceutical innovation [(Keyhani et al., 2009)](https://ajph.aphapublications.org/doi/10.2105/AJPH.2009.178491).
+
 </div>
