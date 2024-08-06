@@ -63,4 +63,6 @@ Direct government funding is more important in the development of the most innov
 
 US pharmaceutical innovation is not exceptionally good compared to other countries as a proportion of its GDP and many countries with drug price regulation are significant contributors to pharmaceutical innovation [(Keyhani et al., 2009)](https://ajph.aphapublications.org/doi/10.2105/AJPH.2009.178491).
 
+Lack of health insurance is associated with mortality [(Wilper et al., 2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775760/). Numerous studies have estimates that tens of thousands of deaths in the US are due to a lack of health insurance [(Cecere, 2009;](https://news.harvard.edu/gazette/story/2009/09/new-study-finds-45000-deaths-annually-linked-to-lack-of-health-coverage/)  [Broaddus & Aron-Dine, 2019)](https://www.cbpp.org/sites/default/files/atoms/files/11-6-19health.pdf), although [Kronick (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2739025/) finds that there is no relationship between insurance and mortality risk after adjusting for demographic, health status, and health behavior characteristics. This study however appears to suffer from the sociologist's fallacy.
+
 </div>
