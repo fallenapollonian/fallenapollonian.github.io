@@ -65,4 +65,8 @@ US pharmaceutical innovation is not exceptionally good compared to other countri
 
 Lack of health insurance is associated with mortality [(Wilper et al., 2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775760/). Numerous studies have estimates that tens of thousands of deaths in the US are due to a lack of health insurance [(Cecere, 2009;](https://news.harvard.edu/gazette/story/2009/09/new-study-finds-45000-deaths-annually-linked-to-lack-of-health-coverage/)  [Broaddus & Aron-Dine, 2019)](https://www.cbpp.org/sites/default/files/atoms/files/11-6-19health.pdf), although [Kronick (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2739025/) finds that there is no relationship between insurance and mortality risk after adjusting for demographic, health status, and health behavior characteristics. This study however appears to suffer from the sociologist's fallacy.
 
+## Rent Control
+
+Rent control does a poor job at targeting benefits to those who need them. Residents of rent-controlled units are less likely to move, meaning they often continue to live in houses that don't properly fit their needs. Rent control and rent stabilization policies also reduce the available supply of housing, which generally leads to higher rents in the uncontrolled market. There are also significant fiscal costs associated with implementing rent control and no consistent relationship between rent control and the prevalence of homelessness. There is also no substantial evidence supporting the idea that rent control decreases economic or racial segregation [(Sturtevant, 2018)](https://www.nmhc.org/globalassets/knowledge-library/rent-control-literature-review-final2.pdf).
+
 </div>
