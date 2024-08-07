@@ -52,4 +52,10 @@ Further Information:
 
 [Cross-country evidence on teacher performance pay](https://www.sciencedirect.com/science/article/abs/pii/S0272775710001731)
 
+## Charter Schools
+
+Charter schools have very heterogeneous effects depending on the study, although on the net there is a small positive effect of charter schools on elementary reading and math, as well as middle school math. There is no statistically significant effect on middle school reading or high school reading or math [(Betts & Tang, 2011)](https://files.eric.ed.gov/fulltext/ED526353.pdf).
+
+Charter schools tend to be more fiscally costly for school districts because separate governance arrangements can create excess costs and the financing policies can distribute resources to or away from districts [(Bifulco, 2011)](http://www.columbia.edu/~rr2165/pdfs/nycharterfiscal.pdf).
+
 </div>
