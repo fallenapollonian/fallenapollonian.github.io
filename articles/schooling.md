@@ -90,4 +90,8 @@ The mean tuition-enrollment elasticity across studies is close to zero after con
 
 Attending a relatively high tuition college has a net positive influence on educational attainment, occupational status, and income. This remained significant even after controlling for student background characteristics such as socioeconomic origins, secondary school achievement, and educational and occupational aspirations. It still remained significant after controlling for academic selectivity and private/public control [(Pascarella et al., 1992)](https://www.researchgate.net/profile/Mark-Smylie/publication/226126111_College_Tuition_Costs_and_Early_Career_Socioeconomic_Achievement_Do_You_Get_What_You_Pay_For/links/55b21bd608aed621ddfd840d/College-Tuition-Costs-and-Early-Career-Socioeconomic-Achievement-Do-You-Get-What-You-Pay-For.pdf).
 
+## Returns to Education
+
+There exists substantial sheepskin effects on returns to education, where there are increases in earnings due to the credential itself as opposed to the underlying skills or abilities demonstrated by individuals [(Ferrer & Riddell, 2001;](http://econ.queensu.ca/pub/jdi/deutsch/edu_conf/Ferrer.pdf)  [Shabbir, 2018)](https://www.econstor.eu/bitstream/10419/188353/1/pjcss433.pdf).
+
 </div>
