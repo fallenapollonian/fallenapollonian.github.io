@@ -66,4 +66,8 @@ School choice improves academic outcomes for both choice participants and public
 
 Compared to at-home care, attending a head start center generates significant positive effects on children's development, although the small average effects exist when comparing Head Start to similar programs [(Montialoux, 2016)](https://www.irle.berkeley.edu/files/2016/IRLE-Revisiting-the-impact-of-Head-Start.pdf). Moreover, head start has a positive effect on years of education, and beneficial impacts on wage income located at the lower end of the distribution [(De Haan & Leuven, 2016)](https://www.econstor.eu/bitstream/10419/142354/1/dp9915.pdf).
 
+## Partisan Bias
+
+There is little evidence of partisan bias in political science grading [(Musgrave & Rom, 2014)](https://journals.sagepub.com/doi/abs/10.1177/1532673X14561655?journalCode=aprb).
+
 </div>
