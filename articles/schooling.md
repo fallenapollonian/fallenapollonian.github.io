@@ -70,4 +70,18 @@ Compared to at-home care, attending a head start center generates significant po
 
 There is little evidence of partisan bias in political science grading [(Musgrave & Rom, 2014)](https://journals.sagepub.com/doi/abs/10.1177/1532673X14561655?journalCode=aprb).
 
+## Tuition Control
+
+Controlling tuition is often difficult due to substitutions between tuition and fees [(Kelchen, 2011)](https://www.mhec.org/sites/default/files/resources/mhec_affordability_series3_20170824.pdf).
+
+Per dollar, price cuts are less effective per-dollar than spending increases in terms of increasing postsecondary attainment. Spending has large impacts on enrollment and degree completion [(Deming & Walters. 2017)](https://scholar.harvard.edu/files/ddeming/files/DW_Aug2017.pdf).
+
+There are only two state policies that are effective in limiting tuition increases. The first is linking tuition to financial aid (high tuition, high financial aid; low tuition, low financial aid), and the second is providing incentives to limit the tuition increase. Tuition was more likely to increase when individual institutions have tuition-setting authority. The average institutional tuition increase in states having tuition caps was higher than increases at institutions in states without tuition caps. This could be because once public universities hear of a cap possibility to be mandated by state authorities, they might preemptively raise tuition and fees. Moreover, since state governments usually don't have enough information about the relationship between the various costs and the quality of learning, it can be hard for states to monitor the rising tuition and fees. Once states set higher tuition caps, institutions may increase tuition up to the limit [(Kim & Ko, 2014)](https://www.researchgate.net/publication/274489492_The_Impacts_of_State_Control_Policies_on_College_Tuition_Increase).
+
+## Tuition Aid
+
+Financial aid and education subsidies increase student demand, and thus increase prices [(Wolfram, 2005;](https://www.cato.org/sites/cato.org/files/pubs/pdf/pa531.pdf)  [Robinson, 2017;](https://www.jamesgmartin.center/wp-content/uploads/2017/12/Bennett_Hypothesis_Paper_Final-1.pdf)  [McCluskey, 2022)](https://www.cato.org/blog/cancelling-student-debt-would-inflate-college-prices-suddenly-people-dont-it).
+
+Degree inflation is becoming widespread in the US and is making its economy more inefficient. Posting for many jobs traditionally viewed as middle-skills jobs which required a high school diploma only now require at least a college degree. Part of this is due to the changing nature of many middle-skills jobs which require computer proficiency and good written and verbal communications, but it also has to do with misperceptions [(Fuller & Raman, 2017)](https://www.hbs.edu/managing-the-future-of-work/Documents/dismissed-by-degrees.pdf).
+
 </div>
