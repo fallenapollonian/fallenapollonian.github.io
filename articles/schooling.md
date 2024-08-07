@@ -84,4 +84,10 @@ Financial aid and education subsidies increase student demand, and thus increase
 
 Degree inflation is becoming widespread in the US and is making its economy more inefficient. Posting for many jobs traditionally viewed as middle-skills jobs which required a high school diploma only now require at least a college degree. Part of this is due to the changing nature of many middle-skills jobs which require computer proficiency and good written and verbal communications, but it also has to do with misperceptions [(Fuller & Raman, 2017)](https://www.hbs.edu/managing-the-future-of-work/Documents/dismissed-by-degrees.pdf).
 
+## Tuition Fees
+
+The mean tuition-enrollment elasticity across studies is close to zero after controlling for publication bias [(Havranek et al., 2018)](http://meta-analysis.cz/education/education.pdf).
+
+Attending a relatively high tuition college has a net positive influence on educational attainment, occupational status, and income. This remained significant even after controlling for student background characteristics such as socioeconomic origins, secondary school achievement, and educational and occupational aspirations. It still remained significant after controlling for academic selectivity and private/public control [(Pascarella et al., 1992)](https://www.researchgate.net/profile/Mark-Smylie/publication/226126111_College_Tuition_Costs_and_Early_Career_Socioeconomic_Achievement_Do_You_Get_What_You_Pay_For/links/55b21bd608aed621ddfd840d/College-Tuition-Costs-and-Early-Career-Socioeconomic-Achievement-Do-You-Get-What-You-Pay-For.pdf).
+
 </div>
