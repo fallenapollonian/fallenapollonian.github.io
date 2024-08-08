@@ -263,6 +263,8 @@ Older Americans tend to be more conservative [(Pew, 2014)](https://www.pewresear
 
 ### Miscellaneous
 
+Conservatives are those who are most likely to spend money on pornography, likely because such desires are repressed within conservatives [(Barber, 2009)](https://www.psychologytoday.com/us/blog/the-human-beast/200903/why-conservatives-spend-more-pornography).
+
 Consistent liberals and consistent conservatives are the people most likely to engage in activism and the political process [(Pew, 2014)](https://www.pewresearch.org/politics/2014/06/12/section-5-political-engagement-and-activism/).
 
 White liberals but not white conservatives present less competence to black interaction partners than white ones, suggesting that well-intentioned liberal whites may draw on low-status/competence stereotypes to affiliate with minorities [(Dupree & Fiske, 2018)](https://osf.io/preprints/psyarxiv/pv2ab).
