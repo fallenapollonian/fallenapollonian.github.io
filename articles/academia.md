@@ -413,4 +413,8 @@ There exists a positive correlation between the prestige of a management researc
 
 [Eichorn & Yankauer (1987)](https://sci-hub.ru/https://doi.org/10.2105/AJPH.77.8.1011) looked at a random sample of 50 references in three public health journals. They found that 31% of the total 150 references had citation errors.
 
+## Scientific Progress
+
+Scientific collaborations are characterized by hot spots and hot moments which are short but intense periods of collaboration which drive scientific and intellectual social movements. Emotions and bonding are essential for the group's growth and development, but increased size and diversity have the potential to erode the affective culture that generated initial successes [(Parker & Hackett, 2012)](https://journals.sagepub.com/doi/abs/10.1177/0003122411433763).
+
 </div>
