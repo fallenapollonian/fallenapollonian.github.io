@@ -117,4 +117,10 @@ Winners of lotteries in the 1800s, although having slightly more children than n
 
 Fiscal policy is the primary tool for governments to impact income distribution, but governments must balance equity with efficiency. This can be done through the introduction of means testing in programs [(Gupta, 2014)](https://www.imf.org/external/np/pp/eng/2014/012314.pdf).
 
+## Trade and Globalization
+
+While there is publication bias in the literature, even correcting for publication bias economic globalization has a positive effect on economic growth, although this is primarily driven by trade globalization. Financial globalization may have zero effect [(Heimberger, 2021)](https://onlinelibrary.wiley.com/doi/10.1111/twec.13235).
+
+International trade regulation can create jobs in the sectors it protects or promotes, but almost always at the expense of destroying a roughly equivalent number of jobs elsewhere in the economy [(Winters & Ubaldo, 2020)](https://wol.iza.org/articles/international-trade-regulation-and-job-creation).
+
 </div>
