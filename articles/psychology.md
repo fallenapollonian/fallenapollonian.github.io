@@ -384,4 +384,12 @@ A 2004 meta-analysis found that there is a sleeper effect, where a discounting p
 
 Confirmation bias is the tendency to seek or interpret evidence in ways that are partial to existing beliefs, expectations, or a hypothesis in hand [(Nickerson, 1998)](https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175). This has been shown in the case of the evaluation of political arguments, where attitudinally congruent arguments are uncritically supported and evaluated as stronger than attitudinally incongruent arguments, which are counter-argued against [(Taber & Lodge, 2006)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2006.00214.x). The latter can be referred to as a disconfirmation bias. This can lead to attitude polarization. Whether a person's prior belief is accompanied by emotional conviction affects the magnitude and form of the disconfirmation bias [(Edwards & Smith, 1996)](https://psycnet.apa.org/record/1996-01782-001).
 
+## Religion
+
+There is a negative relationship  between intelligence and religiosity. Possible reasons include that intelligent people are less likely to conform, that intelligent people tend to adopt an analytic rather than intuitive thinking, and that several functions such as compensatory control, self-regulation, self-enhancement, and secure attachment, are also conferred by intelligence [(Zuckerman et al., 2013)](https://journals.sagepub.com/doi/10.1177/1088868313497266).
+
+Most human rights practices are worse in societies where citizens are more religious and that muslim majority nations provide less respect for almost all human rights [(Cingranelli & Kalmick, 2019)](https://muse.jhu.edu/article/730069/pdfimage).
+
+Scientists are significantly less likely to believe in the existence of a god compared to the general public [(Pew, 2009)](https://www.pewforum.org/2009/11/05/scientists-and-belief/).
+
 </div>
