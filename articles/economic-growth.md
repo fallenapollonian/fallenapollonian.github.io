@@ -79,4 +79,8 @@ Medicine Hat practiced housing first and became the first city in Canada to end 
 
 Housing regulation is a significant contributor to high house prices [(Glaeser et al., 2003;](https://www.nber.org/system/files/working_papers/w10124/w10124.pdf)  [NAHB, 2021;](https://www.nahb.org/blog/2021/05/regulatory-costs-add-a-whopping-93870-to-new-home-prices/) [Litman, 2024)](https://www.vtpi.org/park-hou.pdf).
 
+## Inheritance Taxation
+
+Inheritance taxation can reduce wealth inequality. It has been argued that it leads to businesses, particularly small businesses, going bankrupt due to inheritances following taxation being insufficient to continue a business. However, heirs are generally poorer at managing businesses so inheritance taxation can help reduce skills-capital mismatch [(OECD, 2021)](https://www.oecd-ilibrary.org/taxation/inheritance-taxation-in-oecd-countries_6315055c-en).
+
 </div>
