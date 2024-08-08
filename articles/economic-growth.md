@@ -95,4 +95,16 @@ Right to work laws make it illegal for a group of unionized workers to negotiate
 
 [Doucouliagos & Laroche (2003)](https://library.fes.de/libalt/journals/swetsfulltext/17556769.pdf) conducted a meta-analysis and found that after controlling for differences between studies, a negative association was discovered between unions and productivity in the UK, while a positive relationship was found in the US. An additional bootstrapped meta-analysis also found a positive relationship in the US [(Doucouliagos & Laroche, 2004)](https://www.researchgate.net/publication/227640784_What_Do_Unions_Do_to_Productivity_A_Meta-Analysis). A more recent meta-analysis also suggested that unions are not invariably harmful to productivity, although the impact may depend on a number of factors including the sectors and counties concerned, the time period investigated and institutional settings such as labor market regulation [(Paris, 2017)](https://tuac.org/wp-content/uploads/2017/12/Recent-Meta-20Dec17.pdf).
 
+## Worker Ownership
+
+Codetermination laws are negatively associated with productivity, but profit-sharing, worker ownership, and worker participation in decision-making are all positively associated with productivity. All of these are stronger in labor-managed firms compared with participatory capitalist firms [(Doucouliagos, 1995)](https://library.uniteddiversity.coop/Cooperatives/Worker_Participation_and_Productivity-Meta_Analysis.pdf).
+
+Worker cooperatives aren't rare because they are inefficient, but because they are less likely to start up. From the ground, this is due to wealth and credit constraints, entrepreneurial rents, and collective action problems. However, this does not explain why existing firms do not convert to worker cooperatives [(Olsen, 2013)](https://institute.coop/sites/default/files/resources/070%202013_Olsen_The%20Relative%20Survival%20of%20Worker%20Cooperatives%20and%20Barriers%20to%20Their%20Creation.pdf).
+
+Worker cooperatives have survival rates at least as good if not better than participatory capitalist firms [(Perotin, 2020)](https://www.uk.coop/sites/default/files/2020-10/worker_co-op_report.pdf). This is explained by their greater employment stability [(Park et al., 2004)](https://www.emerald.com/insight/content/doi/10.1016/S0885-3339(04)08001-9/full/html).
+
+Employee ownership has a positive and statistically significant relation to firm performance [(Kruse & Blasi, 1995;](https://www.nber.org/system/files/working_papers/w5277/w5277.pdf)  [O'Boyle et al., 2016)](https://www.researchgate.net/publication/304459942_Employee_ownership_and_firm_performance_a_meta-analysis_Employee_ownership_a_meta-analysis).
+
+Codetermination rights lead to higher income equality [(Hörisch, 2012)](https://www.mzes.uni-mannheim.de/publications/wp/wp-147.pdf#page=4).
+
 </div>
