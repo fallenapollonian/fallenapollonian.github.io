@@ -398,4 +398,12 @@ Scientists are significantly less likely to believe in the existence of a god co
 
 Journalists generally prefer parties with more left-wing positions [(Kirkegaard et al., 2021)](https://www.researchgate.net/publication/353756955_The_Left-liberal_Skew_of_Western_Media).
 
+## Weight Loss
+
+Obesity is associated with higher all-cause mortality [(Flegal et al., 2013)](https://jamanetwork.com/journals/jama/fullarticle/1555137).
+
+Obesity has a substantial heritability, although there is significant variability in the heritability estimate across studies [(Elks et al., 2012)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3355836/).
+
+Reduced energy diets and weight loss medications result in some weight loss outcomes, while advice-only and exercise-alone had minimal effects [(Franz et al., 2007)](https://pubmed.ncbi.nlm.nih.gov/17904936/).
+
 </div>
