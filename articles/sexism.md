@@ -449,4 +449,6 @@ Paternal incarceration is associated with increased physical aggression for boys
 
 Age gaps in relationships are natural and exist cross-culturally [(Buss, 1989)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0E112ACEB2E7BC877805E3AC11ABC889/S0140525X00023992a.pdf/sex-differences-in-human-mate-preferences-evolutionary-hypotheses-tested-in-37-cultures.pdf).
 
+Legalizing unilateral divorce increases female labor force, decreases marriages but increases marriage quality, may reduce child well-being, increases household saving rates, and reduces domestic violence and female suicide. Unilateral divorce combined with equal division of property may depress female employment. Because there is some evidence that children can be harmed by unilateral divorce, easy divorce should be accompanied by policies aimed at supporting children in vulnerable families [(Gonzalez & Quinto, 2021)](https://wol.iza.org/articles/should-divorce-be-easier-or-harder).
+
 </div>
