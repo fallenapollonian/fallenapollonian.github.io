@@ -394,4 +394,8 @@ Most human rights practices are worse in societies where citizens are more relig
 
 Scientists are significantly less likely to believe in the existence of a god compared to the general public [(Pew, 2009)](https://www.pewforum.org/2009/11/05/scientists-and-belief/).
 
+## Journalists
+
+Journalists generally prefer parties with more left-wing positions [(Kirkegaard et al., 2021)](https://www.researchgate.net/publication/353756955_The_Left-liberal_Skew_of_Western_Media).
+
 </div>
