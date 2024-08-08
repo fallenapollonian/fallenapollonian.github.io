@@ -94,4 +94,6 @@ Attending a relatively high tuition college has a net positive influence on educ
 
 There exists substantial sheepskin effects on returns to education, where there are increases in earnings due to the credential itself as opposed to the underlying skills or abilities demonstrated by individuals [(Ferrer & Riddell, 2001;](http://econ.queensu.ca/pub/jdi/deutsch/edu_conf/Ferrer.pdf)  [Shabbir, 2018)](https://www.econstor.eu/bitstream/10419/188353/1/pjcss433.pdf).
 
+In 2011, a Russian educational reform shortened the university study period by one year and reduced the content of the curricula but did not change the quality of admitted students. This had no adverse effect on wages and on the probability of being employed, suggesting no returns to higher education [(Avdeev, 2020)](https://wp.hse.ru/data/2020/09/22/1584505319/236EC2020.pdf).
+
 </div>
