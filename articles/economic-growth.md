@@ -107,4 +107,14 @@ Employee ownership has a positive and statistically significant relation to firm
 
 Codetermination rights lead to higher income equality [(Hörisch, 2012)](https://www.mzes.uni-mannheim.de/publications/wp/wp-147.pdf#page=4).
 
+## Inequality/Income Mobility
+
+Income inequality goes together with a lack of intergenerational mobility. Promoting intergenerational mobility may not only make societies more egalitarian but also more efficient, because there is now an expectation that people can raise their standard of living no matter their social origin, which is a powerful incentive to human capital accumulation and individual effort. Policies that counteract disparities in family background, such as educational interventions targeted at the children of the poor, may foster intergenerational mobility [(Cappellari, 2021)](https://wol.iza.org/articles/income-inequality-and-social-origins).
+
+Income inequality is associated with an increase in authoritarianism [(Bruce, 2018)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3273660).
+
+Winners of lotteries in the 1800s, although having slightly more children than non-winners, did not send them to school more. Sons of winners had no better outcomes in terms of education, income, or literacy [(Bleakley & Ferrie, 2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436311/).
+
+Fiscal policy is the primary tool for governments to impact income distribution, but governments must balance equity with efficiency. This can be done through the introduction of means testing in programs [(Gupta, 2014)](https://www.imf.org/external/np/pp/eng/2014/012314.pdf).
+
 </div>
