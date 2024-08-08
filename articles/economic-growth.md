@@ -87,4 +87,12 @@ Inheritance taxation can reduce wealth inequality. It has been argued that it le
 
 In most places, housing costs are close to the marginal physical costs of new construction, meaning that physical costs in most cases have little to do with relatively high prices. Zoning has instead been found to be consistently associated with decreased affordability [(Glaeser & Gyourko, 2002;](https://www.nber.org/system/files/working_papers/w8835/w8835.pdf)  [Calder, 2017)](https://www.cato.org/policy-analysis/zoning-land-use-planning-housing-affordability).
 
+## Unions
+
+Unionization reduces aggregate poverty [(CEPR, 2013;](https://www.cepr.net/unions-the-best-fix-to-poverty/)  [Brady et al., 2013;](https://journals.sagepub.com/doi/full/10.1177/0003122413501859)  [Van Heuvelen & Brady, 2021)](https://journals.sagepub.com/doi/10.1177/00197939211014855), as well as income inequality [(Western & Rosenfeld, 2011;](https://www.asanet.org/sites/default/files/savvy/images/journals/docs/pdf/asr/WesternandRosenfeld.pdf)  [Herzer, 2016)](https://journals.sagepub.com/doi/abs/10.1177/0891242416634852).
+
+Right to work laws make it illegal for a group of unionized workers to negotiate a contract that requires each employee who enjoys the benefits of the contract terms to pay their share of costs for negotiating and policing the contract. These result in decreased wages [(Shierholz & Gould, 2011)](https://www.epi.org/publication/bp299/), and also increase economic inequality indirectly by lowering labor power resources [(Van Heuvelen, 2020)](https://www.journals.uchicago.edu/doi/10.1086/708067).
+
+[Doucouliagos & Laroche (2003)](https://library.fes.de/libalt/journals/swetsfulltext/17556769.pdf) conducted a meta-analysis and found that after controlling for differences between studies, a negative association was discovered between unions and productivity in the UK, while a positive relationship was found in the US. An additional bootstrapped meta-analysis also found a positive relationship in the US [(Doucouliagos & Laroche, 2004)](https://www.researchgate.net/publication/227640784_What_Do_Unions_Do_to_Productivity_A_Meta-Analysis). A more recent meta-analysis also suggested that unions are not invariably harmful to productivity, although the impact may depend on a number of factors including the sectors and counties concerned, the time period investigated and institutional settings such as labor market regulation [(Paris, 2017)](https://tuac.org/wp-content/uploads/2017/12/Recent-Meta-20Dec17.pdf).
+
 </div>
