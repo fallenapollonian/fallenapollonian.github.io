@@ -83,4 +83,8 @@ Housing regulation is a significant contributor to high house prices [(Glaeser e
 
 Inheritance taxation can reduce wealth inequality. It has been argued that it leads to businesses, particularly small businesses, going bankrupt due to inheritances following taxation being insufficient to continue a business. However, heirs are generally poorer at managing businesses so inheritance taxation can help reduce skills-capital mismatch [(OECD, 2021)](https://www.oecd-ilibrary.org/taxation/inheritance-taxation-in-oecd-countries_6315055c-en).
 
+## Zoning
+
+In most places, housing costs are close to the marginal physical costs of new construction, meaning that physical costs in most cases have little to do with relatively high prices. Zoning has instead been found to be consistently associated with decreased affordability [(Glaeser & Gyourko, 2002;](https://www.nber.org/system/files/working_papers/w8835/w8835.pdf)  [Calder, 2017)](https://www.cato.org/policy-analysis/zoning-land-use-planning-housing-affordability).
+
 </div>
