@@ -123,4 +123,12 @@ While there is publication bias in the literature, even correcting for publicati
 
 International trade regulation can create jobs in the sectors it protects or promotes, but almost always at the expense of destroying a roughly equivalent number of jobs elsewhere in the economy [(Winters & Ubaldo, 2020)](https://wol.iza.org/articles/international-trade-regulation-and-job-creation).
 
+## Misc. Economics
+
+Literacy and numeracy have substantial economic value. More years in education alone does not improve this economic value, but it must be combined with a rigorous evaluation and curriculum [(Cherry & Vignoles, 2020)](https://wol.iza.org/articles/what-is-economic-value-of-literacy-and-numeracy).
+
+Overeducation and skill mismatches result in labor market mismatches. Overskilling decreases job satisfaction and lowers productivity. Policy should ensure that education must integrate with skill formation outside the workplace, in case overproduction of formal education interacts negatively with skill formation [(Sloane & Mavromaras, 2020)](https://wol.iza.org/articles/overeducation-skill-mismatches-and-labor-market-outcomes-for-college-graduates).
+
+It may be necessary for countries such as the US to have more inequality if it means it allows for innovation which other countries can benefit from [(Acemoglu et al., 2013)](https://scholar.harvard.edu/files/jrobinson/files/varieties_of_capitalism_april_9_2013.pdf).
+
 </div>
