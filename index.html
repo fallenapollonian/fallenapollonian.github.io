@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sidebar Layout</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+        }
+        p {
+            font-size: 14px;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-left: 200px;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+            border-bottom: 2px solid #ccc;
+        }
+        .edit {
+            font-size: 12px;
+            text-decoration: none;
+            color: #0645AD;
+            font-weight: normal;
+            margin-left: 5px;
+        }
+        .edit:focus, .edit:active {
+            outline: none;
+            background: none;
+        }
+        .sidebar {
+            width: 150px;
+            background-color: #f8f9fa;
+            padding: 15px;
+            height: 100vh;
+            position: fixed;
+            left: 0;
+            top: 0;
+            overflow-y: auto;
+            border-right: 2px solid #ccc;
+        }
+        .logo {
+            width: calc(100% - 5px);
+            height: auto;
+            margin-bottom: 15px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 0px;
+        }
+        .sidebar ul {
+            list-style: none;
+            padding: 0;
+            text-align: left;
+            padding-top: 0px;
+        }
+        .sidebar ul li {
+            padding: 1px 0;
+        }
+        .sidebar ul li a {
+            font-size: 12px;
+            text-decoration: none;
+            color: #0645AD;
+        }
+        .sidebar h1 {
+            font-size: 13px;
+            text-align: center;
+        }
+        .content-wrapper {
+            margin-left: 200px;
+            padding: 20px;
+        }
+        .content-container {
+            display: flex;
+        }
+        .left-column, .right-column {
+            width: 50%;
+            padding: 15px;
+        }
+        .left-column {
+            background-color: #f0f0f0;
+            border: 1px solid #ccc;
+        }
+        .right-column {
+            background-color: #DFF0D8;
+            border: 1px solid #ccc;
+        }
+        .additional-content {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #ffffff;
+        }
+        .additional-content h2, .additional-content h3, .additional-content h4 {
+            display: flex;
+            align-items: center;
+            font-size: 16px;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 5px;
+        }
+        .additional-content h2::after, .additional-content h3::after, .additional-content h4::after {
+            content: " [edit]";
+            font-size: 12px;
+            font-weight: normal;
+            color: #0645AD;
+            cursor: pointer;
+            margin-left: 5px;
+        }
+        a {
+            color: #0645AD;
+        }
+        h1 {
+            font-size: 20px;
+        }
+        
+        
+        
+        
+    .toc {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    max-width: 300px;
+}
+
+/* Styling for the TOC title */
+.toc-title {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    font-weight: bold;
+    margin: 0 0 10px 0; /* Ensures proper spacing between title and list */
+}
+
+/* Styling for TOC links */
+.toc a {
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.toc a:hover {
+    text-decoration: underline;
+}
+
+/* Ensure TOC entries appear in block format */
+.toc div {
+    display: block;
+    margin: 2px 0;
+}
+
+/* Indentation settings */
+.toc-h2 {
+    margin-left: 0px; /* No indent for H2 */
+    font-weight: normal;
+}
+
+.toc-h3 {
+    margin-left: 20px !important; /* Indent for H3 */
+    font-weight: normal;
+}
+
+.toc-h4 {
+    margin-left: 40px !important; /* Greater indent for H4 */
+    font-weight: normal;
+}  
+
+        .footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-left: 200px;
+            padding: 20px;
+            font-size: 12px;
+            border-top: 2px solid #ccc;
+        }
+
+    </style>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            document.body.innerHTML = document.body.innerHTML
+                .replace(/\[\[(.*?)\]\]/g, function(match, p1) {
+                    var formattedText = p1.replace(/\s+/g, '-').toLowerCase();
+                    var url = "https://maverickspectacle.github.io/" + encodeURIComponent(formattedText);
+                    return '<a href="' + url + '" class="internal-link">' + p1 + '</a>';
+                })
+                .replace(/\[(https?:\/\/[^\s]+)\s(.+?)\]/g, function(match, url, label) {
+                    return '<a href="' + url + '" class="external-link" target="_blank">' + label + '</a>';
+                });
+        });
+</script>
+    
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        let headers = document.querySelectorAll(".additional-content h2, .additional-content h3, .additional-content h4");
+
+        if (headers.length > 3) {
+            let toc = document.createElement("div");
+            toc.className = "toc";
+
+            let tocTitle = document.createElement("p"); // Change to <p> instead of <h2>
+            tocTitle.className = "toc-title"; // Assign class for styling
+            tocTitle.textContent = "Contents";
+
+            let tocList = document.createElement("div"); // Use div to remove bullet points
+
+            let h2Counter = 0, h3Counter = 0, h4Counter = 0;
+            let lastH2Index = -1, lastH3Index = -1;
+
+            headers.forEach((header, index) => {
+                let id = header.textContent.trim().replace(/\s+/g, '-').toLowerCase();
+                header.id = id;
+                let tocEntry = document.createElement("div"); // Use div for proper indent behavior
+                let link = document.createElement("a");
+                link.href = "#" + id;
+
+                // Determine numbering based on header type
+                if (header.tagName === "H2") {
+                    h2Counter++;
+                    h3Counter = 0;
+                    h4Counter = 0;
+                    header.dataset.number = h2Counter;
+                    lastH2Index = index;
+                    tocEntry.classList.add("toc-h2"); // Assign class for forced CSS styling
+                } else if (header.tagName === "H3") {
+                    if (lastH2Index === -1) return;
+                    h3Counter++;
+                    h4Counter = 0;
+                    header.dataset.number = headers[lastH2Index].dataset.number + "." + h3Counter;
+                    lastH3Index = index;
+                    tocEntry.classList.add("toc-h3"); // Assign class for forced CSS styling
+                } else if (header.tagName === "H4") {
+                    if (lastH3Index === -1) return;
+                    h4Counter++;
+                    header.dataset.number = headers[lastH3Index].dataset.number + "." + h4Counter;
+                    tocEntry.classList.add("toc-h4"); // Assign class for forced CSS styling
+                }
+
+                link.textContent = header.dataset.number + " " + header.textContent;
+                tocEntry.appendChild(link);
+                tocList.appendChild(tocEntry);
+            });
+
+            toc.appendChild(tocTitle);
+            toc.appendChild(tocList);
+
+            // Insert TOC right before the first header
+            headers[0].parentNode.insertBefore(toc, headers[0]);
+        }
+    });
+</script>
+   
+   
+   
+   
+   
+   
+   
+   
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        let references = document.querySelectorAll("ref");
+        let referenceContainer = document.querySelector("references");
+
+        if (references.length > 0 && referenceContainer) {
+            let refList = document.createElement("div"); // Container for references
+            refList.className = "references-list";
+
+            let ol = document.createElement("ol");
+
+            references.forEach((ref, index) => {
+                let refNumber = index + 1;
+                let refText = ref.innerHTML.trim();
+
+                // Create inline citation
+                let citation = document.createElement("sup");
+                citation.className = "citation";
+                citation.innerHTML = `<a href="#ref-${refNumber}" id="cite-${refNumber}" onclick="highlightReference(${refNumber})">[${refNumber}]</a>`;
+
+                // Replace <ref> tag with the citation number
+                ref.replaceWith(citation);
+
+                // Create reference list entry
+                let refEntry = document.createElement("li");
+                refEntry.id = `ref-${refNumber}`;
+                refEntry.innerHTML = `${refText} <a href="#cite-${refNumber}" class="backlink">↩</a>`;
+                ol.appendChild(refEntry);
+            });
+
+            // If more than 8 references, split into two columns
+            if (references.length > 8) {
+                let columnContainer = document.createElement("div");
+                columnContainer.className = "references-columns";
+
+                let leftColumn = document.createElement("ol");
+                leftColumn.className = "column-left";
+
+                let rightColumn = document.createElement("ol");
+                rightColumn.className = "column-right";
+
+                references.forEach((ref, index) => {
+                    let refEntry = ol.children[index].cloneNode(true); // Clone the <li> element
+                    if (index < Math.ceil(references.length / 2)) {
+                        leftColumn.appendChild(refEntry);
+                    } else {
+                        rightColumn.appendChild(refEntry);
+                    }
+                });
+
+                columnContainer.appendChild(leftColumn);
+                columnContainer.appendChild(rightColumn);
+                refList.appendChild(columnContainer);
+            } else {
+                refList.appendChild(ol); // Keep a single list if ≤ 8 references
+            }
+
+            // Replace <references /> tag with the reference list
+            referenceContainer.replaceWith(refList);
+        }
+    });
+
+    // Function to highlight the clicked reference at the bottom
+    function highlightReference(refNumber) {
+        let refEntry = document.getElementById(`ref-${refNumber}`);
+        if (refEntry) {
+            refEntry.classList.add("highlight");
+            setTimeout(() => {
+                refEntry.classList.remove("highlight");
+            }, 2000); // Remove highlight after 2 seconds
+        }
+    }
+</script>
+
+
+
+
+
+
+<style>
+    /* Style inline citations */
+    .citation {
+        font-size: 12px;
+        vertical-align: super;
+        margin-left: 2px;
+    }
+
+    .citation a {
+        text-decoration: none;
+        color: #0645AD;
+    }
+
+    .citation a:hover {
+        text-decoration: underline;
+    }
+
+    /* Style references list */
+    .references-list {
+        margin-top: 10px;
+    }
+
+    .references-list ol {
+        padding-left: 20px;
+        margin: 0;
+    }
+
+    .references-list li {
+        font-size: 14px;
+        margin-bottom: 5px;
+        transition: background-color 0.5s ease-in-out;
+    }
+
+    /* Two-column layout for references when there are more than 8 */
+    .references-columns {
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+    }
+
+    .column-left,
+    .column-right {
+        width: 48%;
+        padding-left: 20px;
+        margin: 0;
+    }
+
+    /* Backlink from references to inline citation */
+    .backlink {
+        text-decoration: none;
+        font-size: 12px;
+        margin-left: 5px;
+        color: #0645AD;
+    }
+
+    .backlink:hover {
+        text-decoration: underline;
+    }
+
+    /* Highlight effect for references */
+    .highlight {
+        background-color: #dff0ff !important; /* Light blue highlight */
+        transition: background-color 0.5s ease-in-out;
+    }
+</style>
+    
+</head>
+<body>
+    <div class="sidebar">
+        <img src="https://i.ibb.co/ChbL0fs/Fallen-Apollonian.jpg" alt="Logo" class="logo">
+        <ul>
+            <h1>Fallen Apollonian Research</h1>
+            <li><a href="#">Main Page</a></li>
+            <li><a href="#">About</a></li>
+        </ul>
+    </div>
+    <div class="header">
+        <span>Home</span>
+        <a href="#" class="edit">Edit</a>
+    </div>
+    <div class="content-wrapper">
+        <div class="content-container">
+            <div class="left-column">
+                <h2>Main Content</h2>
+                <p>This is the main content area. The sidebar stays fixed on the left.</p>
+                <p>Example internal link: [[Testing Link]]</p>
+                <p>Example external link: [https://www.google.ca/maps Google Maps]</p>
+            </div>
+            <div class="right-column">
+                <h2>Featured Content</h2>
+                <p>Highlighted articles, blog posts, or research topics.</p>
+            </div>
+        </div>
+        <div class="additional-content">
+        <p>Hello</p>
+            <h2>Additional Content</h2>
+            <h3>Subsection</h3>
+            <h4>Smaller Subsection</h4>
+            <p>This is where more information can be added below the columns.</p>
+            
+            <p>This is an example of a citation<ref>Source: Example Book, Page 42</ref> in a paragraph.</p>
+<p>Another fact is cited here<ref>Another Source: Example Journal, Vol. 10</ref>.</p>
+  
+  <h2>References</h2>
+  
+<references />
+
+          
+        </div>
+    </div>
+
+    <div class="footer">
+        <span>This page was last edited on....</span>
+    </div>
+
+</body>
+</html>
